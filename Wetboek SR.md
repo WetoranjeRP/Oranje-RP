@@ -15,10 +15,17 @@
 1. Straffen zijn vastgesteld en opgenomen per artikel. Hieronder vallen; waarschuwingen, taakstraffen, celstraffen, rijontzeggingen, inbeslagnames, invorderingen en boetes.
 2. Een opgelegde straf kan een combinatie zijn van meerdere strafvormen.
 3. Een opgelegde straf kan niet hoger zijn dan de vastgestelde waarden.
+
 4. Een straf kan verhoogd worden door te stapelen van overtredingen en/of misdrijven.
 5. Indien er sprake is van meerdere slachtoffers binnen het zelfde misidrijf, dan wordt er voor elk extra slachtoffer 1/3e van de oorspronkelijke straf bij de uiteindelijke straf toegevoegd.
 6. Een straf kan verlaagd worden bij verzachtende omstandigheden.
 7. Een straf kan geheel of gedeeltelijk kwijtgescholden en/of uitgesloten worden op basis van uitsluitingsgronden of bewijsbaar foutieve uitschrijving van de straf.
+
+8. Bij een mislukt strafbaarfeit (poging) wordt maximaal 1/3e van de oorspronkelijke straf bij de uiteindelijke straf toegevoegd.
+9. Bij het opleggen van een celstraf wordt een eventuele taakstraf omgezet in een celstraf.
+10. Bij de in lid 9 bedoelde omzetting wordt voor elke 2 taken 1 maand cel berekend.
+
+11. De politie kan overeen komen met de verdachte om een boete om te zetten in een taakstraf.
 
 **Artikel AB 4 - Strafblad**
 1. Alleen straffen die enige vorm van celstraf bevatten kunnen leiden tot een strafblad.
@@ -78,3 +85,70 @@
 # Titel I - Vermogensdelicten
 **Artikel TI 1 - Diefstal (310 WvSR)**
 1. Schuldig is een persoon die een goed, of voertuig, wegneemt zonder daarvoor toestemming of enig recht toe te hebben
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td></td>
+<td>20 uur</td>
+<td>€ 2000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td></td>
+<td>30 uur</td>
+<td>€ 4000,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td></td>
+<td>60 uur</td>
+<td>€ 5000,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
+**Artikel TI 2 - Diefstal met geweld (312 WvSR)**
+1. Schuldig is een persoon die een goed wegneemt zonder daarvoor toestemming of enig recht toe te hebben, daarbij gebruik makende van geweld in enige vorm.
+2. Genoemd geweld is gebruikt bij de voorbereiding, diefstal of overval, of vlucht.
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td>40 maanden</td>
+<td></td>
+<td>€ 20000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td>80 maanden</td>
+<td></td>
+<td>€ 25000,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td>120 maanden</td>
+<td></td>
+<td>€ 30000,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
