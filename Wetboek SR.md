@@ -21,7 +21,7 @@
 6. Een straf kan verlaagd worden bij verzachtende omstandigheden.
 7. Een straf kan geheel of gedeeltelijk kwijtgescholden en/of uitgesloten worden op basis van uitsluitingsgronden of bewijsbaar foutieve uitschrijving van de straf.
 
-8. Bij een mislukt strafbaarfeit (poging) wordt maximaal 1/3e van de oorspronkelijke straf bij de uiteindelijke straf toegevoegd.
+8. Bij een mislukt strafbaarfeit (poging) wordt maximaal 2/3e van de oorspronkelijke straf bij de uiteindelijke straf toegevoegd.
 9. Bij het opleggen van een celstraf wordt een eventuele taakstraf omgezet in een celstraf.
 10. Bij de in lid 9 bedoelde omzetting wordt voor elke 2 taken 1 maand cel berekend.
 
@@ -266,13 +266,286 @@
 
 # Titel-II - Geweldsdelicten
 **Artikel T-II 1 - Eenvoudige Mishandeling (300 WvSR)**
+1. Schuldig is een persoon die opzettelijk en wederrechtelijk een ander pijn en of letsel toebrengt.
+2. Met mishandeling wordt gelijkgesteld het opzettelijk benadelen van de gezondheid.
+3. Een poging tot eenvoudige mishandeling is niet vervolgbaar.
+4. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 1/3 verhoogd.
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td></td>
+<td>50 uur</td>
+<td>€ 5000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td></td>
+<td>60 uur</td>
+<td>€ 7500,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td></td>
+<td>70 uur</td>
+<td>€ 10000,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
 **Artikel T-II 2 - Zware Mishandeling (302 WvSR)**
+1. Schuldig is een persoon die opzettelijk en wederrechtelijk een ander pijn en of letsel toebrengt met zwaar lichamelijk letsel tot gevolg.
+2. Onder de definitie van zware mishandeling valt letsel waarbij verzorging door ambulance personeel noodzakelijk is.
+3. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 1/3 verhoogd.
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td>20 maanden</td>
+<td></td>
+<td>€ 10000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td>30 maanden</td>
+<td></td>
+<td>€ 12500,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td>40 maanden</td>
+<td></td>
+<td>€ 15000,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
 **Artikel T-II 3 - Doodslag (300 WvSR)**
+1. Schuldig is een persoon die opzettelijk een ander van het leven berooft.
+2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 1/3 verhoogd.
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td>80 maanden</td>
+<td></td>
+<td>€ 15000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td>100 maanden</td>
+<td></td>
+<td>€ 20000,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td>120 maanden</td>
+<td></td>
+<td>€ 25000,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
 **Artikel T-II 4 - Moord (289 WvSR)**
+1. Schuldig is een persoon die opzettelijk en met voorbedachte rade iemand van het leven berooft.
+2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 1/3 verhoogd.
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td>100 maanden</td>
+<td></td>
+<td>€ 20000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td>120 maanden</td>
+<td></td>
+<td>€ 25000,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td>150 maanden</td>
+<td></td>
+<td>€ 30000,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
 **Artikel T-II 5 - Bedreiging (300 WvSR)**
+1. Schuldig is een persoon die dreiging uit met gewelddadige inhoud of misdadig karakter, jegens personen of goederen.
+2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 1/3 verhoogd.
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td></td>
+<td>15 uur</td>
+<td>€ 3000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td></td>
+<td>20 uur</td>
+<td>€ 4000,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td></td>
+<td>25 uur</td>
+<td>€ 5000,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
 **Artikel T-II 6 - Gijzeling (300 WvSR)**
+1. Schuldig is een persoon die overgaat tot wederrechtelijke beroving van de vrijheid van een derde.
+2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 1/3 verhoogd.
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td>60 maanden</td>
+<td></td>
+<td>€ 10000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td>70 maanden</td>
+<td></td>
+<td>€ 15000,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td>80 maanden</td>
+<td></td>
+<td>€20000,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
 **Artikel T-II 7 - Vernieling (300 WvSR)**
+1. Schuldig is een persoon die opzettelijk en wederrechtelijk een goed dat geheel of ten dele aan een ander toebehoort, vernielt, beschadigt, onbruikbaar maakt of wegmaakt.
+2. Indien het goed aangemerkt kan worden als eigendom van de overheid wordt de straf met 1/3 verhoogd.
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td></td>
+<td>15 uur</td>
+<td>€ 3000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td></td>
+<td>25 uur</td>
+<td>€ 4500,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td></td>
+<td>25 uur</td>
+<td>€ 6000,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
 **Artikel T-II 8 - Wederspannigheid / verzet (180 WvSR)**
+1. Schuldig is een persoon die geweld pleegt of zich gewelddadig verzet tegen een ambtenaar in dienst.
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td></td>
+<td>20 uur</td>
+<td>€ 2000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td></td>
+<td>25 uur</td>
+<td>€ 2500,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td></td>
+<td>30 uur</td>
+<td>€ 3000,-</td>
+</tr>
+</tbody>
+</table></div></div>
 
 # Titel-III - Verkeersfeiten
 **Artikel T-III 1 - Overtredingen in algemene zin (5 WvW)**
