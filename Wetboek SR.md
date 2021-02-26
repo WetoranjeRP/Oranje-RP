@@ -82,8 +82,8 @@
     - Ne bis in idem, waarbij iemand niet tweemaal veroordeeld mag worden voor hetzelfde feit;
     - Het schutznorm-beginsel, waarbij er geen rechtsgevolg of sanctie wordt gekoppeld aan een vormfout als de verdachte niet zelf is getroffen in een (verdedigings)belang dat door het geschonden vormvoorschrift wordt beschermd.
 
-# Titel I - Vermogensdelicten
-**Artikel TI 1 - Diefstal (310 WvSR)**
+# Titel-I - Vermogensdelicten
+**Artikel T-I 1 - Diefstal (310 WvSR)**
 1. Schuldig is een persoon die een goed, of voertuig, wegneemt zonder daarvoor toestemming of enig recht toe te hebben
 
 <div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
@@ -117,7 +117,7 @@
 </tbody>
 </table></div></div>
 
-**Artikel TI 2 - Diefstal met geweld (312 WvSR)**
+**Artikel T-I 2 - Diefstal met geweld (312 WvSR)**
 1. Schuldig is een persoon die een goed wegneemt zonder daarvoor toestemming of enig recht toe te hebben, daarbij gebruik makende van geweld in enige vorm.
 2. Genoemd geweld is gebruikt bij de voorbereiding, diefstal of overval, of vlucht.
 
@@ -152,3 +152,146 @@
 </tbody>
 </table></div></div>
 
+**Artikel T-I 3 - Afpersing (317 WvSR)**
+1. Schuldig is een persoon die met dwang gegevens of goederen opeist van een derde.
+2. Schuldig is een persoon die met dwang een actie forceert of eist van een derde.
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td>50 maanden</td>
+<td></td>
+<td>€ 7500,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td>80 maanden</td>
+<td></td>
+<td>€ 10000,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td>120 maanden</td>
+<td></td>
+<td>€ 15000,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
+**Artikel T-I 4 - Heling (416 WvSR)**
+1. Schuldig is een persoon die een goed, afkomstig uit een misdrijf, verwerft of hierop aanspraak maakt.
+2. Schuldig is een persoon die voordeel trekt uit opbrengst van een door misdrijf verkregen goed.
+3. Niet schuldig is een persoon die redelijkerwijs geen weet heeft, of kan hebben, van de afkomst uit een misdrijf van het goed.
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td></td>
+<td>20 uur</td>
+<td>€ 2000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td></td>
+<td>30 uur</td>
+<td>€ 4000,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td></td>
+<td>60 uur</td>
+<td>€ 5000,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
+**Artikel T-I 5 - Witwassen (420bis WvSR)**
+1. Schuldig is een persoon die geld of goederen, verkregen uit misdrijf, vermengt of poogt te vermengen met het reguliere circuit van geld en goederen.
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td></td>
+<td>60 uur</td>
+<td>€ 15000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td>60 maanden</td>
+<td></td>
+<td>€ 20000,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td>120 maanden</td>
+<td></td>
+<td>€ 25000,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
+**Artikel T-I 6 - Geldige verklaring herkomst contant geld (321 WvSR)**
+1. Wanneer er tijdens aanhouding van een persoon door de Politie een geldbedrag, hoger dan €10,000 aan contanten, aangetroffen wordt bij die persoon, zal er om geldige verklaring van herkomst gevraagd worden.
+2. Wanneer deze verklaring niet bewijsbaar of redelijkerwijs aannemelijk is, is het de Politie toegestaan dit bedrag in beslag te nemen voor onderzoek.
+3. Wanneer onderzoek geen criminele herkomst kan aantonen, dan is Politie gemaand tot restitutie van het inbeslaggenomen geld bedrag. Hierbij kan de verdachte geen aanspraak maken op wettelijke rente of andere verhoging.
+4. Wanneer onderzoek, volgend op de inbeslagname zoals bedoeld in lid 2, criminele herkomst aantoont, dan zal de inbeslaggenomen som vernietigd worden.
+
+# Titel-II - Geweldsdelicten
+**Artikel T-II 1 - Eenvoudige Mishandeling (300 WvSR)**
+**Artikel T-II 2 - Zware Mishandeling (302 WvSR)**
+**Artikel T-II 3 - Doodslag (300 WvSR)**
+**Artikel T-II 4 - Moord (289 WvSR)**
+**Artikel T-II 5 - Bedreiging (300 WvSR)**
+**Artikel T-II 6 - Gijzeling (300 WvSR)**
+**Artikel T-II 7 - Vernieling (300 WvSR)**
+**Artikel T-II 8 - Wederspannigheid / verzet (180 WvSR)**
+
+# Titel-III - Verkeersfeiten
+**Artikel T-III 1 - Overtredingen in algemene zin (5 WvW)**
+**Artikel T-III 2 - Gevaar / hinder zonder ongeval (5 WvW)**
+**Artikel T-III 3 - Opzettelijk veroorzaken van ernstig gevaar of hinder (5a WvW)**
+**Artikel T-III 4 - Veroorzaken ongeval, met al dan niet licht lichamelijk letsel tot gevolg (6 WvW)**
+**Artikel T-III 5 - Veroorzaken ongeval, met zwaar lichamelijk letsel tot gevolg (6 WvW)**
+**Artikel T-III 6 - Veroorzaken ongeval, met de dood tot gevolg (6 WvW)**
+**Artikel T-III 7 - Verlaten plaats van verkeersongeval  (7 WvW)**
+**Artikel T-III 8 - Rijden zonder bevoegdheid  (9 WvW)**
+**Artikel T-III 8 - Fout parkeren (25 RVV)**
+**Artikel T-III 8 - Snelheidsovertredingen**
+**Artikel T-III 8 - Voertuigeisen  (RVV)**
+**Artikel T-III 8 - Overige verkeersboetes  (WvW / RVV)**
+**Artikel T-III 8 - Illegale voertuigen  (RVV)**
+
+# Titel-IIII - Opiumwet
+**Artikel T-IIII 1 - Softdrugs (3 OW)**
+**Artikel T-IIII 2 - Harddrugs (2 OW)**
+
+# Titel-IIII - Opiumwet
+**Artikel T-IIII 1 - Softdrugs (3 OW)**
+**Artikel T-IIII 2 - Harddrugs (2 OW)**
