@@ -66,6 +66,7 @@
 
 7. Indien de zaak daarom vraagt, kan de politie kiezen om een verdachte in voorarrest plaatsen. Voorarrest kan voor de duur van maximaal 24 uren.
 8. Voorarrest kan tot maximaal 3 keer worden verlengt wanneer daar een reden voor is. Nalatigheid van de politie zorgt hierbij voor directe vrijspraak. Nalatigheid van de verdachte is wel een grond tot verlengen.
+9. Bij vrijlating / sepot kan geen aanspraak worden gemaakt op een eventuele schade vergoeding, tenzij anders aangegeven.
 
 **Artikel AB 9 - Algemene rechtsbeginselen**
 1. De algemene rechtsbeginselen stellen eisen en scheppen kaders aan beleid of regelgeving. Beleid of regelgeving dat onvoldoende aansluit op algemene rechtsbeginselen kan onderhevig zijn aan uitsluiting of verwerping.
@@ -282,16 +283,50 @@
 **Artikel T-III 6 - Veroorzaken ongeval, met de dood tot gevolg (6 WvW)**
 **Artikel T-III 7 - Verlaten plaats van verkeersongeval  (7 WvW)**
 **Artikel T-III 8 - Rijden zonder bevoegdheid  (9 WvW)**
-**Artikel T-III 8 - Fout parkeren (25 RVV)**
-**Artikel T-III 8 - Snelheidsovertredingen**
-**Artikel T-III 8 - Voertuigeisen  (RVV)**
-**Artikel T-III 8 - Overige verkeersboetes  (WvW / RVV)**
-**Artikel T-III 8 - Illegale voertuigen  (RVV)**
+**Artikel T-III 9 - Fout parkeren (25 RVV)**
+**Artikel T-III 10 - Snelheidsovertredingen**
+**Artikel T-III 11 - Voertuigeisen  (RVV)**
+**Artikel T-III 12 - Overige verkeersboetes  (WvW / RVV)**
+**Artikel T-III 13 - Illegale voertuigen  (RVV)**
 
 # Titel-IIII - Opiumwet
 **Artikel T-IIII 1 - Softdrugs (3 OW)**
 **Artikel T-IIII 2 - Harddrugs (2 OW)**
 
-# Titel-IIII - Opiumwet
-**Artikel T-IIII 1 - Softdrugs (3 OW)**
-**Artikel T-IIII 2 - Harddrugs (2 OW)**
+# Titel-V - Wet Wapens en Munitie
+**Artikel T-V 1 - Taser (26 WWM)**
+**Artikel T-V 2 - Vuurwapens en Explosieven (26 WWM)**
+**Artikel T-V 3 - Steek- en slagwapens (27 WWM)**
+**Artikel T-V 4 - Nepwapens, holsters en replica's (26 WWM)**
+**Artikel T-V 5 - Wapenhandel (14-20 WWM)**
+
+# Titel-VI - Wet Wapens en Munitie
+**Artikel T-VI 1 - Algemeen verbod (1 WoK)**
+**Artikel T-VI 2 - Casinospelen (27g WoK)**
+**Artikel T-VI 3 - Loterijen (27 WoK)**
+**Artikel T-VI 4 - Verdubbelaar en pyramidespel (1a Wok)**
+
+# Titel-VII - Uitsluitings- en strafverminderingsgronden
+**Artikel T-VII 1 - Algemene Uitsluitingen (39-43 WvSR)**
+**Artikel T-VII 2 - Vormfouten (39-43 WvSR)**
+**Artikel T-VII 3 - Strafvermindering (44a.2 WvSR)**
+
+# Titel-VIII - Overige
+**Artikel T-VIII 1 - Niet voldoen aan een bevel of vordering (184 WvSR)**
+**Artikel T-VIII 2 - Belediging (266 WvSR)**
+**Artikel T-VIII 3 - Opgeven valse gegevens (435  WvSR)**
+
+
+**Artikel T-VIII 4 - Niet op eerste vordering tonen van identiteitsbewijs (447e  WvSR)**
+-Artikel T-VIII 1  bij niet voldoen bevel
+
+**Artikel T-VIII 5 - Openbare dronkenschap (453 WvSR)**
+**Artikel T-VIII 6 - Dragen van gezichtsbedekkende kleding**
+**Artikel T-VIII 7 - Identiteitsfraude**
+**Artikel T-VIII 8 - Deelname aan een criminele organisatie**
+**Artikel T-VIII 9 - Lokaalvredebreuk (139 WvSR)
+**Artikel T-VIII 10 - Huisvredebreuk (138 WvSR)
+**Artikel T-VIII 11 - Betreden van verboden politie domein**
+**Artikel T-VIII 12 - Betreden van verboden militair domein**
+
+**Artikel T-VIII 8 - Deelname aan een criminele organisatie**
