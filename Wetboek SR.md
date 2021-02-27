@@ -945,6 +945,7 @@
 3. Indien het voertuig niet voldoed aan de in lid 1 benoemde eisen, kan het voertuig een WOK status krijgen.
 4. Indien een voertuig voorzien is van een WOK status, mag deze niet meer rijden over de openbare weg. Het voertuig dient ten alle tijden te worden voorbewogen door een sleepwagen.
 5. Indien er wordt gereden met een voertuig voorzien van een WOK status, kan deze in beslag worden genomen en kan er een boete worden opgelegd van € 1000,-.
+6. Niet strafbaar is hij die een rechtmatig verkregen vergunning kan tonen welke afgegeven en ondertekend is door de burgemeester.
 
 **Artikel T-III 12 - Overige verkeersboetes  (WvW / RVV)**
 1. Momenteel geldt het feitenboekje van het OM waar deze wet niet toereikend is.
@@ -1353,38 +1354,672 @@ Rekentabel harddrugs Eindproducten:
 
 # Titel-V - Wet Wapens en Munitie
 **Artikel T-V 1 - Taser (26 WWM)**
-**Artikel T-V 2 - Vuurwapens en Explosieven (26 WWM)**
-**Artikel T-V 3 - Steek- en slagwapens (27 WWM)**
-**Artikel T-V 4 - Nepwapens, holsters en replica's (26 WWM)**
-**Artikel T-V 5 - Wapenhandel (14-20 WWM)**
+1. Strafbaar is een persoon die een stroomstootwapen voorhanden heeft, bij zich draagt, opgeslagen heeft op een plaats of in de laadruimte heeft van zijn of haar vervoersmiddel.
+2. Wanneer het wapen is gebruikt in combinatie met een ander strafbaarfeit wordt de straf met 1/3 verhoogd.
 
-# Titel-VI - Wet Wapens en Munitie
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td>15 maanden</td>
+<td></td>
+<td>€ 5000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td>30 maanden</td>
+<td></td>
+<td>€ 7500,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td>60 maanden</td>
+<td></td>
+<td>€ 10000,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
+**Artikel T-V 2 - Vuurwapens en Explosieven (26 WWM)**
+1. Strafbaar is een persoon die een vuurwapen voorhanden heeft, bij zich draagt, opgeslagen heeft op een plaats of in de laadruimte heeft van zijn of haar vervoersmiddel.
+2. Onderscheid wordt gemaakt tussen:
+    - Cat. 1 Kleinevuurwapens zijnde; alle vuurwapenswelke niet apart zijn benoemt onder cat 2.
+    - Cat. 2 Automatische vuurwapens, shutgun, explosieven, granaten, thermiet.
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th><strong><em><code>Categorie 1</code></em></strong></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td>30 maanden</td>
+<td></td>
+<td>€ 10000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td>60 maanden</td>
+<td></td>
+<td>€ 12500,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td>90 maanden</td>
+<td></td>
+<td>€ 15000,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th><strong><em><code>Categorie 2</code></em></strong></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td>90 maanden</td>
+<td></td>
+<td>€ 20000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td>120 maanden</td>
+<td></td>
+<td>€ 25000,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td>160 maanden</td>
+<td></td>
+<td>€ 27500,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
+**Artikel T-V 3 - Steek- en slagwapens (27 WWM)**
+1. Strafbaar is een persoon die een steekwapen voorhanden heeft, bij zich draagt, opgeslagen heeft op een plaats of in de laadruimte heeft van zijn of haar vervoersmiddel, waarvan redelijkerwijs kan worden aangenomen dat deze bedoelt is om letsel toe te brengen.
+2. Alle soorten steekwapens zijn verboden.
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td></td>
+<td></td>
+<td>€ 5000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td></td>
+<td>40 uur</td>
+<td>€ 7500,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td>15 maanden</td>
+<td></td>
+<td>€ 10000,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
+**Artikel T-V 4 - Nepwapens, holsters en replica's (26 WWM)**
+1. Strafbaar is een persoon die een holster draagt met daarin een nepwapen of replica die, van dichtbij of op enige afstand, niet gemakkelijk van echt te onderscheiden is.
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td>9 maanden</td>
+<td></td>
+<td>€ 5000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td>18 maanden</td>
+<td></td>
+<td>€ 7500,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td>27 maanden</td>
+<td></td>
+<td>€ 10000,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
+**Artikel T-V 5 - Wapenhandel (14-20 WWM)**
+1. Strafbaar is een persoon die wapens, aangemerkt als niet legaal, invoert, uitvoert, of overdraagd.
+2. Indien aantoonbaar is dat een aanvraag is gedaan danwel een transactie is gepleegd of zou gaan worden, of dreigde te gaan worden, doch niet is afgerond, wordt dit aangemerkt als een poging tot wapenhandel.
+3. Indien de politie ten tijde van het overdragen de wapenhandel stopt, wordt dit gezien als voltooid feit.
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td>20 maanden</td>
+<td></td>
+<td>€ 25000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td>40 maanden</td>
+<td></td>
+<td>€ 30000,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td>60 maanden</td>
+<td></td>
+<td>€ 45000,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
+# Titel-VI - Wet op de Kansspelen
 **Artikel T-VI 1 - Algemeen verbod (1 WoK)**
+1. Schuldig is een persoon die zonder geldige vergunning een gelegenheid biedt om mee te dingen naar prijzen of geld, in de vorm van een kansspel.
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td></td>
+<td></td>
+<td>€ 5000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td></td>
+<td></td>
+<td>€ 7500,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td></td>
+<td></td>
+<td>€ 15000,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
 **Artikel T-VI 2 - Casinospelen (27g WoK)**
+1. Schuldig is een persoon die zonder geldige vergunning casinospelen op basis van kansbepaling publiekelijk of bedrijfsmatig aanbiedt.
+2. De Overheid behoudt het recht om op één of enkele plekken casinospelen geautomatiseerd aan te bieden.
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td></td>
+<td>5 uur</td>
+<td>€ 6000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td></td>
+<td>10 uur</td>
+<td>€ 9000,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td></td>
+<td>25 uur</td>
+<td>€ 17500,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
 **Artikel T-VI 3 - Loterijen (27 WoK)**
+1. Schuldig is een persoon die zonder geldige vergunning een gelegenheid biedt om mededingers een aantal symbolen en/of cijfers te doen voorspellen, die door loting of trekking worden verkregen uit een van tevoren opgegeven aantal symbolen en/of cijfers.
+2. Schuldig is een persoon die zonder geldige vergunning een loterij houdt waarbij een winnend lotnummer door trekking wordt gekozen.
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td></td>
+<td></td>
+<td>€ 5000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td></td>
+<td>10 uur</td>
+<td>€ 7500,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td></td>
+<td>20 uur</td>
+<td>€ 10000,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
 **Artikel T-VI 4 - Verdubbelaar en pyramidespel (1a Wok)**
+1. Schuldig is een persoon die zonder geldige vergunning een gelegenheid biedt om geld of goederen te verdubbelen door het afgeven of overmaken van een voorgesteld bedrag of goed.
+2. Schuldig is een persoon die zonder geldige vergunning geld of goederen eist, teneinde daaruit een voordeel uit te beloven dat geheel of ten dele afhankelijk is van de afgifte van geld of goederen door latere deelnemers.
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td></td>
+<td>10 uur</td>
+<td>€ 4000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td></td>
+<td>15 uur</td>
+<td>€ 6000,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td></td>
+<td>20 uur</td>
+<td>€ 8000,-</td>
+</tr>
+</tbody>
+</table></div></div>
 
 # Titel-VII - Uitsluitings- en strafverminderingsgronden
 **Artikel T-VII 1 - Algemene Uitsluitingen (39-43 WvSR)**
+1. Niet schuldig is een persoon die:
+    - door aantoonbaar overmacht is gedwongen een strafbaar feit te begaan;
+    - vanwege een noodzakelijke verdediging van eigen of andermans lijf, eerbaarheid of goed tegen ogenblikkelijke, wederrechtelijke aanranding een strafbaar feit begaat;
+    - de grenzen van bovenstaande noodweer overtreedt gevolgens een hevige gemoedsbeweging, veroorzaakt door de aanranding;
+    - een strafbaar feit begaat ter uitvoering van een wettelijk voorschrift;
+    - een strafbaar feit begaat ter uitvoering van een ambtelijk bevel, gegeven door het daartoe bevoegde gezag;
+        -Een onbevoegd gegeven ambtelijk bevel heft de strafbaarheid niet op, tenzij het door de ondergeschikte te goeder trouw als bevoegd gegeven werd beschouwd en de nakoming daarvan binnen de kring van zijn ondergeschiktheid was gelegen.
+
 **Artikel T-VII 2 - Vormfouten (39-43 WvSR)**
+1. De hoogte van de straf dient in verhouding tot de ernst van het verzuim te worden verlaagd, indien het door het verzuim veroorzaakte nadeel langs deze weg kan worden gecompenseerd.
+2. Met onherstelbaar vormverzuim wordt onder andere bedoeld:
+    - een vooringenomen, sturende, druk uitoefenende manier van verhoren;
+    - wanneer ontlastende informatie wordt verzwegen, en/of bewijsmateriaal wordt vernietigd;
+    - het tappen van een met geheimhoudingsplicht bezwaarde professional, zoals arts, notaris, geestelijke, apotheker, advocaat;
+    - het voeren van een meinedig proces-verbaal zijnde tegenstrijdigheid met andere processen-verbaal, camerabeelden, geluidsopnamen;
+
 **Artikel T-VII 3 - Strafvermindering (44a.2 WvSR)**
+1. Wanneer besloten wordt tot een strafvermindering kan als leidraad gebruikt worden:
+    - vermindering van maximaal de helft bij een onvoorwaardelijke tijdelijke vrijheidsstraf, taakstraf of geldboete, of
+    - de omzetting van maximaal de helft van het onvoorwaardelijke gedeelte van een vrijheidsstraf, taakstraf of van een geldboete in een voorwaardelijk gedeelte, of
+    - de vervanging van maximaal een derde gedeelte van een vrijheidsstraf door taakstraf of een onvoorwaardelijke geldboete.
+2. Strafverminderingsgronden kunnen worden bepaald in overleg tussen overheid en verdachte met bijstand van advocaat. Hierin meegenomen worden:
+    - eventuele eerdere vergrijpen (en/of het gebrek daar aan);
+    - goed gedrag en meewerking van de verdachte tijdens en na zijn of haar aanhouding;
+    - verzachtende omstandigheden;
+    - overmacht als gevolg van Stadsproblemen;
+    - proportionaliteit;
+    - aandeel van de verdachte in het geheel, indien er sprake is van een grootschalige overtreding met meerdere partijen.
 
 # Titel-VIII - Overige
 **Artikel T-VIII 1 - Niet voldoen aan een bevel of vordering (184 WvSR)**
-**Artikel T-VIII 2 - Belediging (266 WvSR)**
-**Artikel T-VIII 3 - Opgeven valse gegevens (435  WvSR)**
+1. Schuldig is een persoon die opzettelijk niet voldoet aan een bevel of vordering dat krachtens wettelijk voorschrift wordt gegeven door een ambtenaar in functie.
+2. Schuldig is een persoon die opzettelijk een ambtenaar in functie belemmert in de uitvoering daarvan.
 
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td></td>
+<td>25 uur</td>
+<td>€ 2000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td></td>
+<td>50 uur</td>
+<td>€ 3000,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td></td>
+<td>75 uur</td>
+<td>€ 5000,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
+**Artikel T-VIII 2 - Belediging (266 WvSR)**
+1. Schuldig is een persoon die opzettelijk een ander belegdigt waarbij de ander zich beldigd voelt.
+2. De belediging dient in het openbaar te gebeuren.
+3. Wanneer de belediging opzettelijk is geuit richting een ambtenaar in functie wordt de straf met 1/3 verhoogd.
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td></td>
+<td>20 uur</td>
+<td>€ 1000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td></td>
+<td>40 uur</td>
+<td>€ 2500,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td></td>
+<td>60 uur</td>
+<td>€ 5000,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
+**Artikel T-VIII 3 - Opgeven valse gegevens (435  WvSR)**
+1. Schuldig is een persoon die bij vordering van een ambtenaar in functie valse gegevens opgeeft, op straffe van een boete van €2500,- per geval.
 
 **Artikel T-VIII 4 - Niet op eerste vordering tonen van identiteitsbewijs (447e  WvSR)**
--Artikel T-VIII 1  bij niet voldoen bevel
+1. Schuldig is een persoon die geen gehoor geeft aan een vordering tot inzage van het identiteitsbewijs door een ambtenaar in functie, wanneer dit in het kader van de wet door de ambtenaar als noodzakelijk wordt geacht.
+2. Hij die wordt veroordeeld voor lid 1 krijgt een boete van €1000,- per geval.
 
 **Artikel T-VIII 5 - Openbare dronkenschap (453 WvSR)**
+1. Schuldig is een persoon die zich begeeft in de openbare ruimte terwijl hij of zij in kennelijke staat van dronkenschap verkeert.
+2. Hij die wordt veroordeeld voor lid 1 krijgt een boete van €1250,- per geval.
+
 **Artikel T-VIII 6 - Dragen van gezichtsbedekkende kleding**
+1. Schuldig is een persoon die kleding draagt, die het gezicht geheel bedekt of zodanig bedekt dat alleen de ogen onbedekt zijn, dan wel onherkenbaar maakt.
+2. Het eerste lid is niet van toepassing, voor zover kleding als bedoeld in lid 1:
+    - wordt gedragen door cliënten, patiënten of hun bezoekers in residentiële delen van zorginstellingen, of
+    - noodzakelijk is ter bescherming van het lichaam in verband met de gezondheid of de veiligheid, of
+    - noodzakelijk is in verband met eisen die aan de uitoefening van een beroep of sport worden gesteld, of
+    - passend is in verband met het deelnemen aan een feestelijke of een culturele activiteit.
+3. Hij die wordt veroordeeld voor lid 1 krijgt een boete van €2500,- per geval.
+
 **Artikel T-VIII 7 - Identiteitsfraude**
-**Artikel T-VIII 8 - Deelname aan een criminele organisatie**
-**Artikel T-VIII 9 - Lokaalvredebreuk (139 WvSR)
-**Artikel T-VIII 10 - Huisvredebreuk (138 WvSR)
-**Artikel T-VIII 11 - Betreden van verboden politie domein**
-**Artikel T-VIII 12 - Betreden van verboden militair domein**
+1. Schuldig is een persoon die zich uitgeeft als iemand anders, onder naam van iemand anders, in naam van iemand anders, of gelieerd aan iemand anders met als doel daaruit een gewin te behalen in brede zin.
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td></td>
+<td>20 uur</td>
+<td>€ 2000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td></td>
+<td>40 uur</td>
+<td>€ 4000,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td></td>
+<td>60 uur</td>
+<td>€ 6000,-</td>
+</tr>
+</tbody>
+</table></div></div>
 
 **Artikel T-VIII 8 - Deelname aan een criminele organisatie**
+1. Schuldig is een persoon die deelneemt aan, steun verleent aan, of gelieerd is aan een organisatie die tot doel heeft het plegen van misdrijven.
+2. Ten aanzien van de oprichters, leiders of bestuurders worden de gevangenisstraffen met 1/3 verhoogd.
+3. Onder deelneming als omschreven in het eerste lid wordt mede begrepen het verlenen van geldelijke of andere stoffelijke steun aan alsmede het werven van gelden of personen ten behoeve van de daar omschreven organisatie.
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td>20 maanden</td>
+<td></td>
+<td>€ 5000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td>40 maanden</td>
+<td></td>
+<td>€ 10000,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td>60 maanden</td>
+<td></td>
+<td>€ 15000,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
+**Artikel T-VIII 9 - Lokaalvredebreuk (139 WvSR)***
+1. Schuldig is een persoon die in een voor de openbare dienst bestemd lokaal, openbare ruimte of besloten erf dat bestemd is voor de openbare dienst, wederrechtelijk binnendringt, of, wederrechtelijk aldaar vertoevende, zich niet op de vordering van de bevoegde ambtenaar aanstonds verwijdert.
+2. Schuldig is een persoon die zich de toegang heeft verschaft door middel van braak of inklimming, van valse sleutels, van een valse order of een vals kostuum, of die zonder voorkennis van de bevoegde ambtenaar en anders dan ten gevolge van vergissing binnengekomen, aldaar wordt aangetroffen in de voor de nachtrust bestemde tijd, wordt geacht te zijn binnengedrongen.
+3. In geval van het tweede lid wordt de staf met 1/3 verhoogd.
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th>Celstraf</th>
+<th>Taakstraf</th>
+<th>boete</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Eerste Veroordeling</td>
+<td></td>
+<td>40 uur</td>
+<td>€ 2000,-</td>
+</tr>
+<tr>
+<td>Tweede Veroordeling</td>
+<td></td>
+<td>50 uur</td>
+<td>€ 2500,-</td>
+</tr>
+<tr>
+<td>Meerdere Veroordelingen</td>
+<td></td>
+<td>60 uur</td>
+<td>€ 4000,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
+**Artikel T-VIII 10 - Huisvredebreuk (138 WvSR)***
+1. Schuldig is een persoon die een woning of besloten lokaal of erf bij een ander in gebruik, wederrechtelijk binnendringt of, wederrechtelijk aldaar vertoevende, zich niet op de vordering van of vanwege de rechthebbende aanstonds verwijdert.
+2. Schuldig is een persoon die zich de toegang heeft verschaft door middel van braak of inklimming, van lockpicks, van een valse order of vals kostuum, of die, zonder voorkennis van de rechthebbende en anders dan ten gevolge van vergissing binnengekomen, aldaar wordt aangetroffen in de voor de nachtrust bestemde tijd, wordt geacht te zijn binnengedrongen.
+3. In geval van het tweede lid wordt de staf met 1/3 verhoogd.
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th>Celstraf</th>
+<th>Taakstraf</th>
+<th>boete</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Eerste Veroordeling</td>
+<td></td>
+<td>20 uur</td>
+<td>€ 4000,-</td>
+</tr>
+<tr>
+<td>Tweede Veroordeling</td>
+<td></td>
+<td>30 uur</td>
+<td>€ 6000,-</td>
+</tr>
+<tr>
+<td>Meerdere Veroordelingen</td>
+<td></td>
+<td>40 uur</td>
+<td>€ 8000,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
+**Artikel T-VIII 12 - Betreden van verboden terrein**
+1. Schuldig is een persoon die zonder daartoe gerechtigd is, over militair domein en/of grond waarvan de toegang op een voor hem blijkbare wijze door den rechthebbende is verboden, loopt, rijdt of vee laat lopen.
+2. Niet schuldig aan lid 1 kan zijn hij die werkt bij de overheid.
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th>Bij wet geclassificeerde militaire domeinen</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Luchtmachtbasis</td>
+</tr>
+<tr>
+<td>Vliegdekschip</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table></div></div>
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th>Celstraf</th>
+<th>Taakstraf</th>
+<th>boete</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Eerste Veroordeling</td>
+<td>20 maanden</td>
+<td></td>
+<td>€ 10000,-</td>
+</tr>
+<tr>
+<td>Tweede Veroordeling</td>
+<td>40 maanden</td>
+<td></td>
+<td>€ 15000,-</td>
+</tr>
+<tr>
+<td>Meerdere Veroordelingen</td>
+<td>60 maanden</td>
+<td></td>
+<td>€ 20000,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
+<hr>
+Het wetboek van Oranje Roleplay is opgesteld uit naam van de burgemeester en ondertekend door Kris Hanze te Oranje.
+<hr>
