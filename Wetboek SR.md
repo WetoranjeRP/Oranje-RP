@@ -957,7 +957,399 @@
 
 # Titel-IIII - Opiumwet
 **Artikel T-IIII 1 - Softdrugs (3 OW)**
+1. Schuldig is een persoon die softdrugs vergaart, in bezit heeft of verkoopt.
+2. Schuldig is ook een persoon die de ingrediënten, benodigd voor het vervaardigen van softdrugs, vergaart, in bezit heeft of verkoopt.
+3. Strafbepaling geschiedt op grond van de totale hoeveelheid die aangetroffen is, ook wanneer dit verspreid is over meerdere personen.
+4. Niet schuldig is een persoon die 5 ingrediënten of 2 eindproducten voor eigen gebruik bij zich draagt.
+5. De hoeveelheid zoals bedoeld in lid 3 wordt opgeteld en ten laste gelegd per persoon.
+6. Wanneer niet te bewijzen valt dat meerdere personen in samenwerking waren wordt de strafbepaling zoals bedoelt in lid 3 niet opgeteld toegepast.
+7. Strafbepaling geschiedt op basis van aantallen ingrediënten en aantallen eindproducten.
+8. Wanneer er een mix van verschillende ingrediënten wordt aangetroffen, zal per ingredient de rekentabel gebruikt worden en zullen deze aantallen worden opgetelt.
+
+Rekentabel softdrugs ingrediënten:
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th><strong><em><code>6-25 ingrediënten</code></em></strong></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td></td>
+<td>10 uur</td>
+<td>€ 500,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td></td>
+<td>20 uur</td>
+<td>€ 1000,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td></td>
+<td>30 uur</td>
+<td>€ 1500,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th><strong><em><code>26-200 ingrediënten</code></em></strong></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td></td>
+<td>30 uur</td>
+<td>€ 2000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td></td>
+<td>50 uur</td>
+<td>€ 3000,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td>25 maanden</td>
+<td></td>
+<td>€ 4000,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th><strong><em><code>&gt;200 ingrediënten</code></em></strong></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td>40 maanden</td>
+<td></td>
+<td>€ 5000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td>50 maanden</td>
+<td></td>
+<td>€ 6000,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td>60 maanden</td>
+<td></td>
+<td>€7000,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
+Rekentabel softdrugs eindproducten:
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th><strong><em><code>3-5 eindproducten</code></em></strong></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td></td>
+<td>10 uur</td>
+<td>€ 2000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td></td>
+<td>20 uur</td>
+<td>€ 3000,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td></td>
+<td>30 uur</td>
+<td>€ 4000,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th><strong><em><code>6-40 eindproducten</code></em></strong></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td></td>
+<td>30 uur</td>
+<td>€ 5000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td>40 maanden</td>
+<td></td>
+<td>€ 6000,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td>50 maanden</td>
+<td></td>
+<td>€ 7000,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th><strong><em><code>&gt;40 eindproducten</code></em></strong></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td>55 maanden</td>
+<td></td>
+<td>€ 8000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td>60 maanden</td>
+<td></td>
+<td>€ 9000,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td>70 maanden</td>
+<td></td>
+<td>€ 10000,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
 **Artikel T-IIII 2 - Harddrugs (2 OW)**
+1. Schuldig is een persoon die harddrugs vergaart, in bezit heeft of verkoopt.
+2. Schuldig is ook een persoon die de ingrediënten, benodigd voor het vervaardigen van harddrugs, vergaart, in bezit heeft of verkoopt.
+3. Strafbepaling geschiedt op grond van de totale hoeveelheid die aangetroffen is, ook wanneer dit verspreid is over meerdere personen.
+4. De hoeveelheid zoals bedoeld in lid 3 wordt opgeteld en ten laste gelegd per persoon.
+5. Wanneer niet te bewijzen valt dat meerdere personen in samenwerking waren wordt de strafbepaling zoals bedoelt in lid 3 niet opgeteld toegepast.
+6. Strafbepaling geschiedt op basis van aantallen ingrediënten en aantallen eindproducten.
+7. Wanneer er een mix van verschillende ingrediënten wordt aangetroffen, zal per ingredient de rekentabel gebruikt worden en zullen deze aantallen worden opgetelt.
+
+Rekentabel harddrugs ingrediënten:
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th><strong><em><code>1-25 ingrediënten</code></em></strong></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td></td>
+<td>25 uur</td>
+<td>€ 3000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td></td>
+<td>40 uur</td>
+<td>€ 4000,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td>30 maanden</td>
+<td></td>
+<td>€ 5000,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th><strong><em><code>26-200 ingrediënten</code></em></strong></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td>35 maanden</td>
+<td></td>
+<td>€ 6000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td>50 maanden</td>
+<td></td>
+<td>€ 7500,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td>60 maanden</td>
+<td></td>
+<td>€ 8000,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th><strong><em><code>&gt;200 ingrediënten</code></em></strong></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td>70 maanden</td>
+<td></td>
+<td>€ 9000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td>80 maanden</td>
+<td></td>
+<td>€ 10000,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td>100 maanden</td>
+<td></td>
+<td>€ 12500,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
+Rekentabel harddrugs Eindproducten:
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th><strong><em><code>1-5 eindproducten</code></em></strong></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td>25 maanden</td>
+<td></td>
+<td>€ 6000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td>30 maanden</td>
+<td></td>
+<td>€ 7500,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td>40 maanden</td>
+<td></td>
+<td>€ 9000,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th><strong><em><code>6-40 eindproducten</code></em></strong></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td>50 maanden</td>
+<td></td>
+<td>€10000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td>60 maanden</td>
+<td></td>
+<td>€11000,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td>75 maanden</td>
+<td></td>
+<td>€12500,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th><strong><em><code>&gt;40 eindproducten</code></em></strong></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td>100 maanden</td>
+<td></td>
+<td>€ 15000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td>120 maanden</td>
+<td></td>
+<td>€ 17000,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td>150 maanden</td>
+<td></td>
+<td>€ 20000,-</td>
+</tr>
+</tbody>
+</table></div></div>
 
 # Titel-V - Wet Wapens en Munitie
 **Artikel T-V 1 - Taser (26 WWM)**
