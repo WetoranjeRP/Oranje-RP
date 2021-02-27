@@ -549,18 +549,411 @@
 
 # Titel-III - Verkeersfeiten
 **Artikel T-III 1 - Overtredingen in algemene zin (5 WvW)**
+1. Voor verkeersovertredingen in algemene zin, welke niet gespecificeerd zijn als zwaardere delicten, geldt een geldboete van €320,- per geval.
+2. Er kan door de opsporinge ambtenaar worden gekozen om een waarschuwing te geven in plaats van een boete.
+
 **Artikel T-III 2 - Gevaar / hinder zonder ongeval (5 WvW)**
+1. Schuldig is een persoon die zich zodanig gedraagt in het verkeer dat er sprake kan zijn van gevaar en/of hinder op de openbare weg.
+2. Wanneer de gedragingen lijden tot de mogelijkheid van aanzienlijk gevaar en/of hinder, kan er worden overgegaan tot invordering van het rijbewijs.
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+<th><em>rijontzegging</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td></td>
+<td></td>
+<td>€ 1000,-</td>
+<td>0-24 uur</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td></td>
+<td>5 uur</td>
+<td>€ 1500,-</td>
+<td>0-24 uur</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td></td>
+<td>10 uur</td>
+<td>€ 2000,-</td>
+<td>0-24 uur</td>
+</tr>
+</tbody>
+</table></div></div>
+
 **Artikel T-III 3 - Opzettelijk veroorzaken van ernstig gevaar of hinder (5a WvW)**
+1. Het is een ieder verboden zich opzettelijk zodanig te gedragen in het verkeer dat de verkeersregels in ernstige mate worden geschonden, indien daarvan levensgevaar of gevaar voor zwaar lichamelijk letsel voor een ander te duchten is.
+2. Als zodanige verkeersgedragingen kunnen de volgende gedragingen worden aangemerkt:
+    - Onvoldoende rechts houden;
+    - Gevaarlijk inhalen
+    - Rijden over de vluchtstrook waar dit niet is toegestaan;
+    - Niet verlenen van voorrang;
+    - Overschrijden van de krachtens deze wet vastgestelde maximumsnelheid;
+    - Het behouden van onvoldoende afstand tot de voorganger waarbij de bestuurder niet in staat is het voertuig op tijd tot stilstand te brengen bij onvoorziene zaken;
+    - Negeren van het rode verkeerslicht;
+    - Niet volgens van de juiste rijrichting;
+    - Een mobiel elektronische apparaat vasthouden tijdens het besturen van een voertuig;
+    - Niet opvolgen van een aanwijzing in het verkeer;
+3. Overtreden van soort gelijke overtredingen als genoemd in lid 2 waarbij de volgende aandachtspunten gelden:
+    - Wanneer het een opzettelijke gedraging betreft waardoor de verkeersregels ernstig worden geschonden en een ernstig ongeval kan ontstaan;
+4. Door één enkele van de genoemde overtredingen, al dan niet bewust gepleegd, wordt niet meteen dit artikel overtreden, het moet gaan om een combinatie van meerdere feiten die leiden tot roekeloos weggedrag en onaanvaardbaar risico. Die worden bepaald door de aard en het samenstel van alle gedragingen en de omstandigheden waaronder deze werden verricht en alle overige feitelijke omstandigheden van het geval.
+5. Indien mogelijk is een staandehouding vereist.
+6. Op basis van inschatting van de feiten en omstandigheden kan eveneens overgegaan worden tot invordering van het rijbewijs en/of inbeslagname van het voertuig.
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+<th><em>rijontzegging</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td></td>
+<td>30 uur</td>
+<td>€ 3000,-</td>
+<td>24-48 uur</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td>10 maanden</td>
+<td></td>
+<td>€ 5000,-</td>
+<td>48-72 uur</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td>15 maanden</td>
+<td></td>
+<td>€ 6000,-</td>
+<td>48-72 uur</td>
+</tr>
+</tbody>
+</table></div></div>
+
 **Artikel T-III 4 - Veroorzaken ongeval, met al dan niet licht lichamelijk letsel tot gevolg (6 WvW)**
+1. Schuldig is een persoon wie een ongeval veroorzaakt, waarbij licht lichamelijk letsel aan een derde tot gevolg is, door niet de verkeersregels in acht te nemen.
+2. Onder licht lichamelijk letsel wordt verstaan al het letsel welke zonder ziekenhuisopname behandeld kan worden.
+3. Op basis van inschatting van de feiten en omstandigheden kan eveneens overgegaan worden tot invordering van het rijbewijs en/of inbeslagname van het voertuig.
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+<th><em>rijontzegging</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td></td>
+<td>10 uur</td>
+<td>€ 2000,-</td>
+<td>0-12 uur</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td></td>
+<td>15 uur</td>
+<td>€ 3000,-</td>
+<td>0-24 uur</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td></td>
+<td>20 uur</td>
+<td>€ 4000,-</td>
+<td>0-24 uur</td>
+</tr>
+</tbody>
+</table></div></div>
+
 **Artikel T-III 5 - Veroorzaken ongeval, met zwaar lichamelijk letsel tot gevolg (6 WvW)**
+1. Schuldig is een persoon wie een ongeval veroorzaakt, waarbij zwaar lichamelijk letsel aan een derde tot gevolg is, door niet de verkeersregels in acht te nemen.
+2. Onder zwaar lichamelijk letsel wordt verstaan al het letsel waarbij een ziekenhuisopname noodzakelijk is.
+3. Het rijbewijs wordt ten alle tijden ingevorderd.
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+<th><em>rijontzegging</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td></td>
+<td>20 uur</td>
+<td>€ 5000,-</td>
+<td>0-24 uur</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td></td>
+<td>30 uur</td>
+<td>€ 6000,-</td>
+<td>0-24 uur</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td></td>
+<td>40 uur</td>
+<td>€ 7000,-</td>
+<td>0-24 uur</td>
+</tr>
+</tbody>
+</table></div></div>
+
 **Artikel T-III 6 - Veroorzaken ongeval, met de dood tot gevolg (6 WvW)**
+1. Schuldig is een persoon wie een ongeval veroorzaakt, met de dood tot gevolg, door niet de verkeersregels in acht te nemen.
+2. Het rijbewijs wordt ten alle tijden ingevorderd.
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+<th><em>rijontzegging</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td></td>
+<td>50 uur</td>
+<td>€ 5000,-</td>
+<td>0-24 uur</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td>20 maanden</td>
+<td></td>
+<td>€ 7000,-</td>
+<td>0-24 uur</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td>25 maanden</td>
+<td></td>
+<td>€ 10000,-</td>
+<td>0-24 uur</td>
+</tr>
+</tbody>
+</table></div></div>
+
 **Artikel T-III 7 - Verlaten plaats van verkeersongeval  (7 WvW)**
+1. Schuldig is een persoon wie een plaats van een verkeersongeval verlaat, indien deze betrokken was bij het ongeval.
+2. Niet ter zake doet het of hij of zij schuldig was aan het veroorzaken van het ongeval.
+3. Indien een derde wordt achtergelaten in hulpeloze toestand wordt de straf verhoogd met 1/3.
+4. Wanneer de persoon zich nadien, tijdig, alsnog meldt bij de politie zal worden afgezien van strafvervolging.
+5. Wanneer de persoon wordt gevonden door de politie vervalt lid 4.
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+<th><em>rijontzegging</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td></td>
+<td>50 uur</td>
+<td>€ 5000,-</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td></td>
+<td>60 uur</td>
+<td>€ 6000,-</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td>40 maanden</td>
+<td></td>
+<td>€ 8000,-</td>
+<td></td>
+</tr>
+</tbody>
+</table></div></div>
+
 **Artikel T-III 8 - Rijden zonder bevoegdheid  (9 WvW)**
+1. Schuldig is een persoon wie weet of redelijkerwijs behoort te weten dat hem of haar de rijbevoegdheid is ontzegd en desondanks deelneemt aan het verkeer in een voertuig waarvoor een rijbewijs vereist is.
+2. Wanneer de bevoegdheid is ontzegd middels een invordering van het rijbewijs, dan geldt dit voor alle categoriën van dat rijbewijs.
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>boete</em></th>
+<th><em>rijontzegging</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td></td>
+<td>10 uur</td>
+<td>€3000,-</td>
+<td>0-24 uur</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td></td>
+<td>20 uur</td>
+<td>€5000,-</td>
+<td>0-24 uur</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td></td>
+<td>30 uur</td>
+<td>€7500,-</td>
+<td>0-24 uur</td>
+</tr>
+</tbody>
+</table></div></div>
+
 **Artikel T-III 9 - Fout parkeren (25 RVV)**
+1. Schuldig is een persoon die zijn of haar voertuig parkeert op een wijze die niet sluit met de aangegeven parkeersituatie, zoals:
+    - Dubbelparkeren;
+    - Parkeren langs een rode trottoirrand;
+    - Parkeren op een rijbaan;
+    - Parkeren op de stoep;
+    - Stilstaan op de stoep.
+2. Indien er geen bestuurder bekend is, is de tenaamgestelde van het voertuig verantwoordelijk.
+3. De vastgestelde boete bedraagd € 1500,-
+4. Indien het voertuig hindelijk staat, kan het voertuig worden afgesleept en dient de tenaamgestelde deze kosten te voldoen.
+
 **Artikel T-III 10 - Snelheidsovertredingen**
+1. Schuldig is een persoon die de wettelijk bepaalde snelheden voor gemotoriseerd verkeer niet in acht neemt tijdens deelname aan het verkeer.
+2. De toegestane snelheid binnen de bebouwde kom is maximaal 80 KM/u.
+3. De toegestane snelheid buiten de bebouwde kom is maximaal 130 KM/u.
+4. Indien de snelheid wordt overtreden met 50 KM/u of meer, dient het rijbewijs ingevorderd te worden.
+5. Indien er geen bedrag genoemt is voor de overschreden snelheid kan de persoon worden aangehouden en worden veroodeeld voor Artikel T-III 3 - Opzettelijk veroorzaken van ernstig gevaar of hinder (5a WvW).
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th><strong><em><code>Binnen de Bebouwde Kom</code></em></strong></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Te hard rijden &lt; 10KM/H</td>
+<td>€ 100,-</td>
+</tr>
+<tr>
+<td>Te hard rijden 10 - 20KM/H</td>
+<td>€ 210,-</td>
+</tr>
+<tr>
+<td>Te hard rijden 21 - 30KM/H</td>
+<td>€ 430,-</td>
+</tr>
+<tr>
+<td>Te hard rijden 31 - 40KM/H</td>
+<td>€ 880,-</td>
+</tr>
+<tr>
+<td>Te hard rijden 41 - 50KM/H</td>
+<td>€ 1800,-</td>
+</tr>
+<tr>
+<td>Te hard rijden 51 - 60KM/H</td>
+<td>€ 3800,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th><strong><em><code>Buiten de Bebouwde Kom</code></em></strong></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Te hard rijden &lt; 10KM/H</td>
+<td>€ 90,-</td>
+</tr>
+<tr>
+<td>Te hard rijden 10 - 20KM/H</td>
+<td>€ 200,-</td>
+</tr>
+<tr>
+<td>Te hard rijden 21 - 30KM/H</td>
+<td>€ 410,-</td>
+</tr>
+<tr>
+<td>Te hard rijden 31 - 40KM/H</td>
+<td>€ 830,-</td>
+</tr>
+<tr>
+<td>Te hard rijden 41 - 50KM/H</td>
+<td>€ 1700,-</td>
+</tr>
+<tr>
+<td>Te hard rijden 51 - 60KM/H</td>
+<td>€ 3500,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
 **Artikel T-III 11 - Voertuigeisen  (RVV)**
+1. Schuldig is een persoon van wie zijn of haar voertuig niet voldoet aan de volgende eisen:
+    - Het is voorzien van 1 of meer nummerplaten, tenzij het gaat om een fiets.
+    - Het moet voorzien zijn van ramen waarbij het gezicht van de bestuurder en passagier(s) goed zichtbaar te zien zijn erdoor heen.
+    - Het voertuig mag niet voorzien zijn van NEON.
+    - Het voertuig moet voorzien zijn van een VIN-nummer. (Frame-nummer)
+    - De carosarie dient in ordere te zijn en mag geen uitstekende delen bevatten.
+    - Het voertuig is voorzien van een claxon, deze mag maximaal 1 toon gebruiken.
+2. Indien een VIN-nummer niet meer in originele staat is, dient het voertuig inbeslag te worden genomen en kan de bestuurder en/of tenaamgestelde worden aangemerkt voor het strafbare feit heling.
+3. Indien het voertuig niet voldoed aan de in lid 1 benoemde eisen, kan het voertuig een WOK status krijgen.
+4. Indien een voertuig voorzien is van een WOK status, mag deze niet meer rijden over de openbare weg. Het voertuig dient ten alle tijden te worden voorbewogen door een sleepwagen.
+5. Indien er wordt gereden met een voertuig voorzien van een WOK status, kan deze in beslag worden genomen en kan er een boete worden opgelegd van € 1000,-.
+
 **Artikel T-III 12 - Overige verkeersboetes  (WvW / RVV)**
+1. Momenteel geldt het feitenboekje van het OM waar deze wet niet toereikend is.
+
 **Artikel T-III 13 - Illegale voertuigen  (RVV)**
+1. Schuldig is een persoon wie zijn of haar voertuig, welke staat aangegeven als illegaal voertuig, zich bevind op een plek of plaats anders dan eigen- en/of privéterrein.
+2. Onder illegaal voertuig wordt verstaan, elk voertuig dat is aangeduid als 'illegaal' bij de cardealer en/of in onderstaande tabel is vermeld.
+3. Indien een persoon wordt aangetroffen op zijn of haar voertuig zoals bedoeld in lid 1, wordt het voertuig direct in beslag genomen en vernietigd.
+4. Indien de persoon zoals in lid 3 bedoelt niet de eigenaar van het voertuig betreft, wordt eveneens het voertuig direct in beslag genomen en vernietigd.
 
 # Titel-IIII - Opiumwet
 **Artikel T-IIII 1 - Softdrugs (3 OW)**
