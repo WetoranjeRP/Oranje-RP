@@ -2021,5 +2021,5 @@ Rekentabel harddrugs Eindproducten:
 </table></div></div>
 
 <hr>
-Het wetboek van Oranje Roleplay is opgesteld uit naam van de burgemeester en ondertekend door Kris Hanze te Oranje.
+Het wetboek van Oranje Roleplay is opgesteld uit naam van de burgemeester en ondertekend te Oranje.
 <hr>
