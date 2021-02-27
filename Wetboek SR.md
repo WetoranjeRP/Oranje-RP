@@ -49,7 +49,7 @@
 3. Lid 1 en 2 is alleen van toepassing wanneer er 10.000,- euro of meer aan openstaande boetes zijn.
 
 **Artikel AB 7 - Consulatierecht**
-1. Elke aangehoude verdachte heeft het recht op kostenloze bijstand van een piket advocaat voorafgaand en tijdens het verhoor.
+1. Elke aangehouden verdachte heeft het recht op kostenloze bijstand van een piket advocaat voorafgaand en tijdens het verhoor.
 2. Elke verdachte heeft krachtens artikel 6 van het Europees Verdrag voor de Rechten van de Mens is het een verdachte, voorafgaand aan een politieverhoor, toegestaan consultatie te ontvangen van zijn of haar voorkeursadvocaat.
 3. Indien de voorkeursadvocaat genoemd in lid 2 niet beschikbaar is, is een vervangend advocaat afdoende om te voldoen aan dit recht.
 4. Indien de verdachte de in lid 3 genoemde vervangend advocaat weigert, kan van een advocaat worden afgezien.
