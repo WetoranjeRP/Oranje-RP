@@ -93,7 +93,7 @@
 <th></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -128,7 +128,7 @@
 <th></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -163,7 +163,7 @@
 <th></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -199,7 +199,7 @@
 <th></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -233,7 +233,7 @@
 <th></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -277,7 +277,7 @@
 <th></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -313,7 +313,7 @@
 <th></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -348,7 +348,7 @@
 <th></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -383,7 +383,7 @@
 <th></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -418,7 +418,7 @@
 <th></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -453,7 +453,7 @@
 <th></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -488,7 +488,7 @@
 <th></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -522,7 +522,7 @@
 <th></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -562,8 +562,8 @@
 <th></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
-<th><em>rijontzegging</em></th>
+<th><em>Boete</em></th>
+<th><em>Rijontzegging</em></th>
 </tr>
 </thead>
 <tbody>
@@ -616,8 +616,8 @@
 <th></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
-<th><em>rijontzegging</em></th>
+<th><em>Boete</em></th>
+<th><em>Rijontzegging</em></th>
 </tr>
 </thead>
 <tbody>
@@ -656,8 +656,8 @@
 <th></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
-<th><em>rijontzegging</em></th>
+<th><em>Boete</em></th>
+<th><em>Rijontzegging</em></th>
 </tr>
 </thead>
 <tbody>
@@ -696,8 +696,8 @@
 <th></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
-<th><em>rijontzegging</em></th>
+<th><em>Boete</em></th>
+<th><em>Rijontzegging</em></th>
 </tr>
 </thead>
 <tbody>
@@ -735,8 +735,8 @@
 <th></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
-<th><em>rijontzegging</em></th>
+<th><em>Boete</em></th>
+<th><em>Rijontzegging</em></th>
 </tr>
 </thead>
 <tbody>
@@ -777,8 +777,8 @@
 <th></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
-<th><em>rijontzegging</em></th>
+<th><em>Boete</em></th>
+<th><em>Rijontzegging</em></th>
 </tr>
 </thead>
 <tbody>
@@ -816,8 +816,8 @@
 <th></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
-<th><em>rijontzegging</em></th>
+<th><em>Boete</em></th>
+<th><em>Rijontzegging</em></th>
 </tr>
 </thead>
 <tbody>
@@ -974,7 +974,7 @@ Rekentabel softdrugs ingrediënten:
 <th><strong><em><code>6-25 ingrediënten</code></em></strong></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -1005,7 +1005,7 @@ Rekentabel softdrugs ingrediënten:
 <th><strong><em><code>26-200 ingrediënten</code></em></strong></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -1036,7 +1036,7 @@ Rekentabel softdrugs ingrediënten:
 <th><strong><em><code>&gt;200 ingrediënten</code></em></strong></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -1068,7 +1068,7 @@ Rekentabel softdrugs eindproducten:
 <th><strong><em><code>3-5 eindproducten</code></em></strong></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -1099,7 +1099,7 @@ Rekentabel softdrugs eindproducten:
 <th><strong><em><code>6-40 eindproducten</code></em></strong></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -1130,7 +1130,7 @@ Rekentabel softdrugs eindproducten:
 <th><strong><em><code>&gt;40 eindproducten</code></em></strong></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -1171,7 +1171,7 @@ Rekentabel harddrugs ingrediënten:
 <th><strong><em><code>1-25 ingrediënten</code></em></strong></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -1202,7 +1202,7 @@ Rekentabel harddrugs ingrediënten:
 <th><strong><em><code>26-200 ingrediënten</code></em></strong></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -1233,7 +1233,7 @@ Rekentabel harddrugs ingrediënten:
 <th><strong><em><code>&gt;200 ingrediënten</code></em></strong></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -1265,7 +1265,7 @@ Rekentabel harddrugs Eindproducten:
 <th><strong><em><code>1-5 eindproducten</code></em></strong></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -1296,7 +1296,7 @@ Rekentabel harddrugs Eindproducten:
 <th><strong><em><code>6-40 eindproducten</code></em></strong></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -1327,7 +1327,7 @@ Rekentabel harddrugs Eindproducten:
 <th><strong><em><code>&gt;40 eindproducten</code></em></strong></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -1363,7 +1363,7 @@ Rekentabel harddrugs Eindproducten:
 <th></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -1400,7 +1400,7 @@ Rekentabel harddrugs Eindproducten:
 <th><strong><em><code>Categorie 1</code></em></strong></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -1431,7 +1431,7 @@ Rekentabel harddrugs Eindproducten:
 <th><strong><em><code>Categorie 2</code></em></strong></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -1466,7 +1466,7 @@ Rekentabel harddrugs Eindproducten:
 <th></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -1500,7 +1500,7 @@ Rekentabel harddrugs Eindproducten:
 <th></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -1536,7 +1536,7 @@ Rekentabel harddrugs Eindproducten:
 <th></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -1571,7 +1571,7 @@ Rekentabel harddrugs Eindproducten:
 <th></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -1606,7 +1606,7 @@ Rekentabel harddrugs Eindproducten:
 <th></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -1641,7 +1641,7 @@ Rekentabel harddrugs Eindproducten:
 <th></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -1676,7 +1676,7 @@ Rekentabel harddrugs Eindproducten:
 <th></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -1743,7 +1743,7 @@ Rekentabel harddrugs Eindproducten:
 <th></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -1779,7 +1779,7 @@ Rekentabel harddrugs Eindproducten:
 <th></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -1833,7 +1833,7 @@ Rekentabel harddrugs Eindproducten:
 <th></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -1869,7 +1869,7 @@ Rekentabel harddrugs Eindproducten:
 <th></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
-<th><em>boete</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
@@ -1894,7 +1894,7 @@ Rekentabel harddrugs Eindproducten:
 </tbody>
 </table></div></div>
 
-**Artikel T-VIII 9 - Lokaalvredebreuk (139 WvSR)***
+**Artikel T-VIII 9 - Lokaalvredebreuk (139 WvSR)**
 1. Schuldig is een persoon die in een voor de openbare dienst bestemd lokaal, openbare ruimte of besloten erf dat bestemd is voor de openbare dienst, wederrechtelijk binnendringt, of, wederrechtelijk aldaar vertoevende, zich niet op de vordering van de bevoegde ambtenaar aanstonds verwijdert.
 2. Schuldig is een persoon die zich de toegang heeft verschaft door middel van braak of inklimming, van valse sleutels, van een valse order of een vals kostuum, of die zonder voorkennis van de bevoegde ambtenaar en anders dan ten gevolge van vergissing binnengekomen, aldaar wordt aangetroffen in de voor de nachtrust bestemde tijd, wordt geacht te zijn binnengedrongen.
 3. In geval van het tweede lid wordt de staf met 1/3 verhoogd.
@@ -1903,26 +1903,26 @@ Rekentabel harddrugs Eindproducten:
 <thead>
 <tr>
 <th></th>
-<th>Celstraf</th>
-<th>Taakstraf</th>
-<th>boete</th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Eerste Veroordeling</td>
+<td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td>40 uur</td>
 <td>€ 2000,-</td>
 </tr>
 <tr>
-<td>Tweede Veroordeling</td>
+<td><strong>Tweede Veroordeling</strong></td>
 <td></td>
 <td>50 uur</td>
 <td>€ 2500,-</td>
 </tr>
 <tr>
-<td>Meerdere Veroordelingen</td>
+<td><strong>Meerdere Veroordelingen</strong></td>
 <td></td>
 <td>60 uur</td>
 <td>€ 4000,-</td>
@@ -1930,7 +1930,7 @@ Rekentabel harddrugs Eindproducten:
 </tbody>
 </table></div></div>
 
-**Artikel T-VIII 10 - Huisvredebreuk (138 WvSR)***
+**Artikel T-VIII 10 - Huisvredebreuk (138 WvSR)**
 1. Schuldig is een persoon die een woning of besloten lokaal of erf bij een ander in gebruik, wederrechtelijk binnendringt of, wederrechtelijk aldaar vertoevende, zich niet op de vordering van of vanwege de rechthebbende aanstonds verwijdert.
 2. Schuldig is een persoon die zich de toegang heeft verschaft door middel van braak of inklimming, van lockpicks, van een valse order of vals kostuum, of die, zonder voorkennis van de rechthebbende en anders dan ten gevolge van vergissing binnengekomen, aldaar wordt aangetroffen in de voor de nachtrust bestemde tijd, wordt geacht te zijn binnengedrongen.
 3. In geval van het tweede lid wordt de staf met 1/3 verhoogd.
@@ -1939,26 +1939,26 @@ Rekentabel harddrugs Eindproducten:
 <thead>
 <tr>
 <th></th>
-<th>Celstraf</th>
-<th>Taakstraf</th>
-<th>boete</th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Eerste Veroordeling</td>
+<td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td>20 uur</td>
 <td>€ 4000,-</td>
 </tr>
 <tr>
-<td>Tweede Veroordeling</td>
+<td><strong>Tweede Veroordeling</strong></td>
 <td></td>
 <td>30 uur</td>
 <td>€ 6000,-</td>
 </tr>
 <tr>
-<td>Meerdere Veroordelingen</td>
+<td><strong>Meerdere Veroordelingen</strong></td>
 <td></td>
 <td>40 uur</td>
 <td>€ 8000,-</td>
@@ -1993,26 +1993,26 @@ Rekentabel harddrugs Eindproducten:
 <thead>
 <tr>
 <th></th>
-<th>Celstraf</th>
-<th>Taakstraf</th>
-<th>boete</th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>Boete</em></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Eerste Veroordeling</td>
+<td><strong>Eerste Veroordeling</strong></td>
 <td>20 maanden</td>
 <td></td>
 <td>€ 10000,-</td>
 </tr>
 <tr>
-<td>Tweede Veroordeling</td>
+<td><strong>Tweede Veroordeling</strong></td>
 <td>40 maanden</td>
 <td></td>
 <td>€ 15000,-</td>
 </tr>
 <tr>
-<td>Meerdere Veroordelingen</td>
+<td><strong>Meerdere Veroordelingen</strong></td>
 <td>60 maanden</td>
 <td></td>
 <td>€ 20000,-</td>
