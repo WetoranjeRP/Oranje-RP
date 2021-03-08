@@ -1392,7 +1392,7 @@ Rekentabel harddrugs Eindproducten:
 1. Strafbaar is een persoon die een vuurwapen voorhanden heeft, bij zich draagt, opgeslagen heeft op een plaats of in de laadruimte heeft van zijn of haar vervoersmiddel.
 2. Onderscheid wordt gemaakt tussen:
     - Cat. 1 Kleinevuurwapens zijnde; alle vuurwapenswelke niet apart zijn benoemt onder cat 2.
-    - Cat. 2 Automatische vuurwapens, shutgun, explosieven, granaten, thermiet.
+    - Cat. 2 Automatische vuurwapens, shutgun, explosieven, granaten, thermiet, rocketlauncher.
 
 <div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
 <thead>
@@ -1492,7 +1492,7 @@ Rekentabel harddrugs Eindproducten:
 </table></div></div>
 
 **Artikel T-V 4 - Nepwapens, holsters en replica's (26 WWM)**
-1. Strafbaar is een persoon die een holster draagt met daarin een nepwapen of replica die, van dichtbij of op enige afstand, niet gemakkelijk van echt te onderscheiden is.
+1. Strafbaar is een persoon die een nepwapen of replica die, van dichtbij of op enige afstand, niet gemakkelijk van echt te onderscheiden is.
 
 <div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
 <thead>
