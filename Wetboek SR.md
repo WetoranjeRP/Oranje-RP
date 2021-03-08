@@ -54,7 +54,8 @@
 3. Indien de voorkeursadvocaat genoemd in lid 2 niet beschikbaar is, is een vervangend advocaat afdoende om te voldoen aan dit recht.
 4. Indien de verdachte de in lid 3 genoemde vervangend advocaat weigert, kan van een advocaat worden afgezien.
 5. Een verdachte mag afzien van zijn of haar recht tot consultatie en/of verhoor bijstand van een advocaat.
-6. Van de in lid 1, lid 2 en lid 3 benoemde bepaling kan worden afgewijkt indien er niet binnen 15 minuten (realtime) een advocaat beschikbaar is.
+6. Een verdachte mag zich laten bijstaan door maximaal 1 advocaat, voorkeur of piket, met maximaal 1 stagaire. 
+7. Van de in lid 1, lid 2 en lid 3 benoemde bepaling kan worden afgewijkt indien er niet binnen 15 minuten (realtime) een advocaat beschikbaar is.
 
 **Artikel AB 8 - Algemene aanvulling**
 1. Onder goederen wordt verstaan alles wat tussen twee personen kan worden uitgewisseld.
