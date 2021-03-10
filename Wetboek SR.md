@@ -42,6 +42,7 @@
     - Geldt er een maximum uitkoop bedrag van €200.000,- euro.
     - Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien de eigenaar geen strafbaar feit ten laste is gelegd, of kan worden gelegd, welke in directe zin gekoppeld is aan de reden van inbeslagname.
     - Uitzonderingsgrond voor teruggave van het voertuig is, indien het een ilegale voertuig betreft. In dit geval zal het voertuig verbeurd worden verklaard.
+5. Van het 4e lid kan worden afgeweken indien een voertuig verbeurd word verklaard. In dit geval zal overlegd moeten worden met een agent van de rang commesaris of hoger.
 
 **Artikel AB 6 - Openstaande boetes**
 1. Wanneer er openstaande boetes zijn behoudt de politie het recht om een inbeslaggenomen voertuig onder zich te houden.
