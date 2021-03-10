@@ -39,10 +39,10 @@
 4. Indien de inbeslagname een voertuig betreft dan;
     - Kan deze maximaal drie (3) dagen worden vastgehouden voor onderzoek;
     - Zal deze, nadat bewijsbaar is aangetoond dat het voertuig onderdeel was van een misdrijf, waarbij de eigenaar ook veroordeeld is, uitgekocht kunnen worden voor 20% van de cataloguswaarde;
-    - Geldt er een maximum uitkoop bedrag van €200.000,- euro.
+    - Geldt er een maximum uitkoop bedrag van €100.000,- euro.
     - Zal deze kosteloos worden teruggegeven (na eventueel onderzoek) indien de eigenaar geen strafbaar feit ten laste is gelegd, of kan worden gelegd, welke in directe zin gekoppeld is aan de reden van inbeslagname.
     - Uitzonderingsgrond voor teruggave van het voertuig is, indien het een ilegale voertuig betreft. In dit geval zal het voertuig verbeurd worden verklaard.
-5. Van het 4e lid kan worden afgeweken indien een voertuig verbeurd word verklaard. In dit geval zal overlegd moeten worden met een agent van de rang commesaris of hoger.
+5. Van het 4e lid kan worden afgeweken indien een voertuig verbeurd word verklaard als aanvullende straf. In dit geval zal overlegd moeten worden met een raadslid van de gemeente Oranje Roleplay.
 
 **Artikel AB 6 - Openstaande boetes**
 1. Wanneer er openstaande boetes zijn behoudt de politie het recht om een inbeslaggenomen voertuig onder zich te houden.
@@ -55,7 +55,7 @@
 3. Indien de voorkeursadvocaat genoemd in lid 2 niet beschikbaar is, is een vervangend advocaat afdoende om te voldoen aan dit recht.
 4. Indien de verdachte de in lid 3 genoemde vervangend advocaat weigert, kan van een advocaat worden afgezien.
 5. Een verdachte mag afzien van zijn of haar recht tot consultatie en/of verhoor bijstand van een advocaat.
-6. Een verdachte mag zich laten bijstaan door maximaal 1 advocaat, voorkeur of piket, met maximaal 1 stagaire. 
+6. Een verdachte mag zich laten bijstaan door maximaal 1 advocaat, voorkeur- of piketadvocaat, met maximaal 1 stagaire. 
 7. Van de in lid 1, lid 2 en lid 3 benoemde bepaling kan worden afgewijkt indien er niet binnen 15 minuten (realtime) een advocaat beschikbaar is.
 
 **Artikel AB 8 - Algemene aanvulling**
@@ -67,7 +67,7 @@
 6. Bovenstaande ontslaat ambtenaren in dienst van de Overheid niet van alle overige rechtsvervolging.
 
 7. Indien de zaak daarom vraagt, kan de politie kiezen om een verdachte in voorarrest plaatsen. Voorarrest kan voor de duur van maximaal 24 uren.
-8. Voorarrest kan tot maximaal 3 keer worden verlengt wanneer daar een reden voor is. Nalatigheid van de politie zorgt hierbij voor directe vrijspraak. Nalatigheid van de verdachte is wel een grond tot verlengen.
+8. Voorarrest kan tot maximaal 3 keer worden verlengt wanneer daar een goede reden voor is. Nalatigheid van de politie zorgt hierbij voor directe vrijspraak. Nalatigheid van de verdachte is wel een grond tot verlengen.
 9. Bij vrijlating / sepot kan geen aanspraak worden gemaakt op een eventuele schade vergoeding, tenzij anders aangegeven.
 
 **Artikel AB 9 - Algemene rechtsbeginselen**
@@ -103,19 +103,19 @@
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td>20 uur</td>
-<td>€ 2000,-</td>
+<td>€ 3000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td></td>
 <td>30 uur</td>
-<td>€ 4000,-</td>
+<td>€ 6000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td></td>
 <td>60 uur</td>
-<td>€ 5000,-</td>
+<td>€ 8000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -155,9 +155,9 @@
 </tbody>
 </table></div></div>
 
-**Artikel T-I 3 - Afpersing (317 WvSR)**
-1. Schuldig is een persoon die met dwang gegevens of goederen opeist van een derde.
-2. Schuldig is een persoon die met dwang een actie forceert of eist van een derde.
+**Artikel T-I 3 - Oplichting (326 WvSR)**
+1. Schuldig is een persoon die door het aannemen van een valse naam, of een valse hoedanigheid, hetzij door listige kunstgrepen, hetzij door een samenweefsel van verdichtsels, iemand beweegt tot de afgifte van enig goed, tot het verlenen van een dienst, tot het ter beschikking stellen van gegevens, tot het aangaan van een schuld of tot het teniet doen van een inschuld, wordt, als schuldig aan oplichting, gestraft.
+2. Schuldig is een persoon wie een dienst of goed afneemt zonder de daarvoor afgesproken afspraken na te komen.
 
 <div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
 <thead>
@@ -171,21 +171,21 @@
 <tbody>
 <tr>
 <td><strong>Eerste Veroordeling</strong></td>
-<td>50 maanden</td>
+<td>30 maanden</td>
 <td></td>
-<td>€ 7500,-</td>
+<td>€ 10000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
-<td>80 maanden</td>
+<td>50 maanden</td>
 <td></td>
 <td>€ 10000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
-<td>120 maanden</td>
+<td>80 maanden</td>
 <td></td>
-<td>€ 15000,-</td>
+<td>€ 10000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -243,19 +243,19 @@
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td>60 uur</td>
-<td>€ 15000,-</td>
+<td>€ 20000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td>60 maanden</td>
 <td></td>
-<td>€ 20000,-</td>
+<td>€ 25000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td>120 maanden</td>
 <td></td>
-<td>€ 25000,-</td>
+<td>€ 30000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -287,19 +287,19 @@
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td>50 uur</td>
-<td>€ 5000,-</td>
+<td>€ 7500,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td></td>
 <td>60 uur</td>
-<td>€ 7500,-</td>
+<td>€ 10000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td></td>
 <td>70 uur</td>
-<td>€ 10000,-</td>
+<td>€ 15000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -323,24 +323,24 @@
 <td><strong>Eerste Veroordeling</strong></td>
 <td>20 maanden</td>
 <td></td>
-<td>€ 10000,-</td>
+<td>€ 12500,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td>30 maanden</td>
 <td></td>
-<td>€ 12500,-</td>
+<td>€ 15000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td>40 maanden</td>
 <td></td>
-<td>€ 15000,-</td>
+<td>€ 20000,-</td>
 </tr>
 </tbody>
 </table></div></div>
 
-**Artikel T-II 3 - Doodslag (300 WvSR)**
+**Artikel T-II 3 - Doodslag (287 WvSR)**
 1. Schuldig is een persoon die opzettelijk een ander van het leven berooft.
 2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 1/3 verhoogd.
 
@@ -358,19 +358,19 @@
 <td><strong>Eerste Veroordeling</strong></td>
 <td>80 maanden</td>
 <td></td>
-<td>€ 15000,-</td>
+<td>€ 20000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td>100 maanden</td>
 <td></td>
-<td>€ 20000,-</td>
+<td>€ 25000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td>120 maanden</td>
 <td></td>
-<td>€ 25000,-</td>
+<td>€ 30000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -393,24 +393,24 @@
 <td><strong>Eerste Veroordeling</strong></td>
 <td>100 maanden</td>
 <td></td>
-<td>€ 20000,-</td>
+<td>€ 30000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td>120 maanden</td>
 <td></td>
-<td>€ 25000,-</td>
+<td>€ 40000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td>150 maanden</td>
 <td></td>
-<td>€ 30000,-</td>
+<td>€ 50000,-</td>
 </tr>
 </tbody>
 </table></div></div>
 
-**Artikel T-II 5 - Bedreiging (300 WvSR)**
+**Artikel T-II 5 - Bedreiging (285 WvSR)**
 1. Schuldig is een persoon die dreiging uit met gewelddadige inhoud of misdadig karakter, jegens personen of goederen.
 2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 1/3 verhoogd.
 
@@ -428,24 +428,24 @@
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td>15 uur</td>
-<td>€ 3000,-</td>
+<td>€ 5000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td></td>
 <td>20 uur</td>
-<td>€ 4000,-</td>
+<td>€ 6000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td></td>
 <td>25 uur</td>
-<td>€ 5000,-</td>
+<td>€ 7500,-</td>
 </tr>
 </tbody>
 </table></div></div>
 
-**Artikel T-II 6 - Gijzeling (300 WvSR)**
+**Artikel T-II 6 - Gijzeling (282a WvSR)**
 1. Schuldig is een persoon die overgaat tot wederrechtelijke beroving van de vrijheid van een derde.
 2. Wanneer het slachtoffer een ambtenaar in functie betreft wordt de straf met 1/3 verhoogd.
 
@@ -463,24 +463,24 @@
 <td><strong>Eerste Veroordeling</strong></td>
 <td>60 maanden</td>
 <td></td>
-<td>€ 10000,-</td>
+<td>€ 30000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td>70 maanden</td>
 <td></td>
-<td>€ 15000,-</td>
+<td>€ 40000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td>80 maanden</td>
 <td></td>
-<td>€20000,-</td>
+<td>€ 50000,-</td>
 </tr>
 </tbody>
 </table></div></div>
 
-**Artikel T-II 7 - Vernieling (300 WvSR)**
+**Artikel T-II 7 - Vernieling (350 WvSR)**
 1. Schuldig is een persoon die opzettelijk en wederrechtelijk een goed dat geheel of ten dele aan een ander toebehoort, vernielt, beschadigt, onbruikbaar maakt of wegmaakt.
 2. Indien het goed aangemerkt kan worden als eigendom van de overheid wordt de straf met 1/3 verhoogd.
 
@@ -498,19 +498,19 @@
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td>15 uur</td>
-<td>€ 3000,-</td>
+<td>€ 7500,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td></td>
 <td>25 uur</td>
-<td>€ 4500,-</td>
+<td>€ 10000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td></td>
 <td>25 uur</td>
-<td>€ 6000,-</td>
+<td>€ 12500,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -532,31 +532,32 @@
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td>20 uur</td>
-<td>€ 2000,-</td>
+<td>€ 5000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td></td>
 <td>25 uur</td>
-<td>€ 2500,-</td>
+<td>€ 6000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td></td>
 <td>30 uur</td>
-<td>€ 3000,-</td>
+<td>€ 7000,-</td>
 </tr>
 </tbody>
 </table></div></div>
 
 # Titel-III - Verkeersfeiten
 **Artikel T-III 1 - Overtredingen in algemene zin (5 WvW)**
-1. Voor verkeersovertredingen in algemene zin, welke niet gespecificeerd zijn als zwaardere delicten, geldt een geldboete van €320,- per geval.
+1. Voor verkeersovertredingen in algemene zin, welke niet gespecificeerd zijn als zwaardere delicten, geldt een geldboete van €750,- per geval.
 2. Er kan door de opsporinge ambtenaar worden gekozen om een waarschuwing te geven in plaats van een boete.
 
 **Artikel T-III 2 - Gevaar / hinder zonder ongeval (5 WvW)**
 1. Schuldig is een persoon die zich zodanig gedraagt in het verkeer dat er sprake kan zijn van gevaar en/of hinder op de openbare weg.
 2. Wanneer de gedragingen lijden tot de mogelijkheid van aanzienlijk gevaar en/of hinder, kan er worden overgegaan tot invordering van het rijbewijs.
+3. Dit artikel betreft een verkeersmisdrijf.
 
 <div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
 <thead>
@@ -573,21 +574,21 @@
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td></td>
-<td>€ 1000,-</td>
+<td>€ 3000,-</td>
 <td>0-24 uur</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td></td>
-<td>5 uur</td>
-<td>€ 1500,-</td>
+<td>10 uur</td>
+<td>€ 4000,-</td>
 <td>0-24 uur</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td></td>
-<td>10 uur</td>
-<td>€ 2000,-</td>
+<td>20 uur</td>
+<td>€ 5000,-</td>
 <td>0-24 uur</td>
 </tr>
 </tbody>
@@ -627,21 +628,21 @@
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td>30 uur</td>
-<td>€ 3000,-</td>
+<td>€ 7500,-</td>
 <td>24-48 uur</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td>10 maanden</td>
 <td></td>
-<td>€ 5000,-</td>
+<td>€ 10000,-</td>
 <td>48-72 uur</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td>15 maanden</td>
 <td></td>
-<td>€ 6000,-</td>
+<td>€ 12500,-</td>
 <td>48-72 uur</td>
 </tr>
 </tbody>
@@ -666,22 +667,22 @@
 <tr>
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
-<td>10 uur</td>
-<td>€ 2000,-</td>
+<td>20 uur</td>
+<td>€ 5000,-</td>
 <td>0-12 uur</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td></td>
-<td>15 uur</td>
-<td>€ 3000,-</td>
+<td>30 uur</td>
+<td>€ 6500,-</td>
 <td>0-24 uur</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td></td>
-<td>20 uur</td>
-<td>€ 4000,-</td>
+<td>50 uur</td>
+<td>€ 8000,-</td>
 <td>0-24 uur</td>
 </tr>
 </tbody>
@@ -706,22 +707,22 @@
 <tr>
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
-<td>20 uur</td>
-<td>€ 5000,-</td>
+<td>50 uur</td>
+<td>€ 8000,-</td>
 <td>0-24 uur</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td></td>
-<td>30 uur</td>
-<td>€ 6000,-</td>
+<td>70 uur</td>
+<td>€ 10000,-</td>
 <td>0-24 uur</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td></td>
-<td>40 uur</td>
-<td>€ 7000,-</td>
+<td>80 uur</td>
+<td>€ 12000,-</td>
 <td>0-24 uur</td>
 </tr>
 </tbody>
@@ -745,22 +746,22 @@
 <tr>
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
-<td>50 uur</td>
-<td>€ 5000,-</td>
+<td>70 uur</td>
+<td>€ 12000,-</td>
 <td>0-24 uur</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
-<td>20 maanden</td>
+<td>40 maanden</td>
 <td></td>
-<td>€ 7000,-</td>
+<td>€ 15000,-</td>
 <td>0-24 uur</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
-<td>25 maanden</td>
+<td>60 maanden</td>
 <td></td>
-<td>€ 10000,-</td>
+<td>€ 18000,-</td>
 <td>0-24 uur</td>
 </tr>
 </tbody>
@@ -855,7 +856,7 @@
     - Parkeren op de stoep;
     - Stilstaan op de stoep.
 2. Indien er geen bestuurder bekend is, is de tenaamgestelde van het voertuig verantwoordelijk.
-3. De vastgestelde boete bedraagd € 1500,-
+3. De vastgestelde boete bedraagd € 3000,-
 4. Indien het voertuig hindelijk staat, kan het voertuig worden afgesleept en dient de tenaamgestelde deze kosten te voldoen.
 
 **Artikel T-III 10 - Snelheidsovertredingen**
@@ -875,27 +876,27 @@
 <tbody>
 <tr>
 <td>Te hard rijden &lt; 10KM/H</td>
-<td>€ 100,-</td>
+<td>€ 400,-</td>
 </tr>
 <tr>
 <td>Te hard rijden 10 - 20KM/H</td>
-<td>€ 210,-</td>
+<td>€ 800,-</td>
 </tr>
 <tr>
 <td>Te hard rijden 21 - 30KM/H</td>
-<td>€ 430,-</td>
+<td>€ 1600,-</td>
 </tr>
 <tr>
 <td>Te hard rijden 31 - 40KM/H</td>
-<td>€ 880,-</td>
+<td>€ 2500,-</td>
 </tr>
 <tr>
-<td>Te hard rijden 41 - 50KM/H</td>
-<td>€ 1800,-</td>
+<td>Te hard rijden 41 - 49KM/H</td>
+<td>€ 3750,-</td>
 </tr>
 <tr>
-<td>Te hard rijden 51 - 60KM/H</td>
-<td>€ 3800,-</td>
+<td>Te hard rijden 50 of meer KM/H</td>
+<td>€ 6000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -910,27 +911,27 @@
 <tbody>
 <tr>
 <td>Te hard rijden &lt; 10KM/H</td>
-<td>€ 90,-</td>
+<td>€ 300,-</td>
 </tr>
 <tr>
 <td>Te hard rijden 10 - 20KM/H</td>
-<td>€ 200,-</td>
+<td>€ 600,-</td>
 </tr>
 <tr>
 <td>Te hard rijden 21 - 30KM/H</td>
-<td>€ 410,-</td>
+<td>€ 1200,-</td>
 </tr>
 <tr>
 <td>Te hard rijden 31 - 40KM/H</td>
-<td>€ 830,-</td>
+<td>€ 2100,-</td>
 </tr>
 <tr>
-<td>Te hard rijden 41 - 50KM/H</td>
-<td>€ 1700,-</td>
+<td>Te hard rijden 41 - 49KM/H</td>
+<td>€ 3350,-</td>
 </tr>
 <tr>
-<td>Te hard rijden 51 - 60KM/H</td>
-<td>€ 3500,-</td>
+<td>Te hard rijden 50 of meer KM/H</td>
+<td>€ 5500,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -946,11 +947,12 @@
 2. Indien een VIN-nummer niet meer in originele staat is, dient het voertuig inbeslag te worden genomen en kan de bestuurder en/of tenaamgestelde worden aangemerkt voor het strafbare feit heling.
 3. Indien het voertuig niet voldoed aan de in lid 1 benoemde eisen, kan het voertuig een WOK status krijgen.
 4. Indien een voertuig voorzien is van een WOK status, mag deze niet meer rijden over de openbare weg. Het voertuig dient ten alle tijden te worden voorbewogen door een sleepwagen.
-5. Indien er wordt gereden met een voertuig voorzien van een WOK status, kan deze in beslag worden genomen en kan er een boete worden opgelegd van € 1000,-.
+5. Indien er wordt gereden met een voertuig voorzien van een WOK status, kan deze in beslag worden genomen en kan er een boete worden opgelegd van € 2500,-.
 6. Niet strafbaar is hij die een rechtmatig verkregen vergunning kan tonen welke afgegeven en ondertekend is door de burgemeester.
 
 **Artikel T-III 12 - Overige verkeersboetes  (WvW / RVV)**
 1. Momenteel geldt het feitenboekje van het OM waar deze wet niet toereikend is.
+2. Voor feiten benoemd in het feitenboekje kan de boete 'Algemene verkeersovertreding' worden uitgeschreven.
 
 **Artikel T-III 13 - Illegale voertuigen  (RVV)**
 1. Schuldig is een persoon wie zijn of haar voertuig, welke staat aangegeven als illegaal voertuig, zich bevind op een plek of plaats anders dan eigen- en/of privéterrein.
@@ -984,19 +986,19 @@ Rekentabel softdrugs ingrediënten:
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td>10 uur</td>
-<td>€ 500,-</td>
+<td>€ 3000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td></td>
 <td>20 uur</td>
-<td>€ 1000,-</td>
+<td>€ 5000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td></td>
 <td>30 uur</td>
-<td>€ 1500,-</td>
+<td>€ 7000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -1015,19 +1017,19 @@ Rekentabel softdrugs ingrediënten:
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td>30 uur</td>
-<td>€ 2000,-</td>
+<td>€ 5000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td></td>
 <td>50 uur</td>
-<td>€ 3000,-</td>
+<td>€ 7000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td>25 maanden</td>
 <td></td>
-<td>€ 4000,-</td>
+<td>€ 9000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -1046,19 +1048,19 @@ Rekentabel softdrugs ingrediënten:
 <td><strong>Eerste Veroordeling</strong></td>
 <td>40 maanden</td>
 <td></td>
-<td>€ 5000,-</td>
+<td>€ 7000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td>50 maanden</td>
 <td></td>
-<td>€ 6000,-</td>
+<td>€ 9000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td>60 maanden</td>
 <td></td>
-<td>€7000,-</td>
+<td>€12000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -1067,7 +1069,7 @@ Rekentabel softdrugs eindproducten:
 <div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
 <thead>
 <tr>
-<th><strong><em><code>3-5 eindproducten</code></em></strong></th>
+<th><strong><em><code>2-5 eindproducten</code></em></strong></th>
 <th><em>Celstraf</em></th>
 <th><em>Taakstraf</em></th>
 <th><em>Boete</em></th>
@@ -1078,19 +1080,19 @@ Rekentabel softdrugs eindproducten:
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td>10 uur</td>
-<td>€ 2000,-</td>
+<td>€ 7000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td></td>
 <td>20 uur</td>
-<td>€ 3000,-</td>
+<td>€ 10000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td></td>
 <td>30 uur</td>
-<td>€ 4000,-</td>
+<td>€ 15000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -1109,19 +1111,19 @@ Rekentabel softdrugs eindproducten:
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td>30 uur</td>
-<td>€ 5000,-</td>
+<td>€ 9000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td>40 maanden</td>
 <td></td>
-<td>€ 6000,-</td>
+<td>€ 12000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td>50 maanden</td>
 <td></td>
-<td>€ 7000,-</td>
+<td>€ 17000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -1140,19 +1142,19 @@ Rekentabel softdrugs eindproducten:
 <td><strong>Eerste Veroordeling</strong></td>
 <td>55 maanden</td>
 <td></td>
-<td>€ 8000,-</td>
+<td>€ 12000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td>60 maanden</td>
 <td></td>
-<td>€ 9000,-</td>
+<td>€ 15000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td>70 maanden</td>
 <td></td>
-<td>€ 10000,-</td>
+<td>€ 20000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -1181,19 +1183,19 @@ Rekentabel harddrugs ingrediënten:
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td>25 uur</td>
-<td>€ 3000,-</td>
+<td>€ 5000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td></td>
 <td>40 uur</td>
-<td>€ 4000,-</td>
+<td>€ 7000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td>30 maanden</td>
 <td></td>
-<td>€ 5000,-</td>
+<td>€ 9000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -1212,19 +1214,19 @@ Rekentabel harddrugs ingrediënten:
 <td><strong>Eerste Veroordeling</strong></td>
 <td>35 maanden</td>
 <td></td>
-<td>€ 6000,-</td>
+<td>€ 7000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td>50 maanden</td>
 <td></td>
-<td>€ 7500,-</td>
+<td>€ 9000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td>60 maanden</td>
 <td></td>
-<td>€ 8000,-</td>
+<td>€ 11000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -1249,13 +1251,13 @@ Rekentabel harddrugs ingrediënten:
 <td><strong>Tweede Veroordeling</strong></td>
 <td>80 maanden</td>
 <td></td>
-<td>€ 10000,-</td>
+<td>€ 11000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td>100 maanden</td>
 <td></td>
-<td>€ 12500,-</td>
+<td>€ 13000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -1275,19 +1277,19 @@ Rekentabel harddrugs Eindproducten:
 <td><strong>Eerste Veroordeling</strong></td>
 <td>25 maanden</td>
 <td></td>
-<td>€ 6000,-</td>
+<td>€ 10000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td>30 maanden</td>
 <td></td>
-<td>€ 7500,-</td>
+<td>€ 13000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td>40 maanden</td>
 <td></td>
-<td>€ 9000,-</td>
+<td>€ 18000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -1306,19 +1308,19 @@ Rekentabel harddrugs Eindproducten:
 <td><strong>Eerste Veroordeling</strong></td>
 <td>50 maanden</td>
 <td></td>
-<td>€10000,-</td>
+<td>€12000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td>60 maanden</td>
 <td></td>
-<td>€11000,-</td>
+<td>€15000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td>75 maanden</td>
 <td></td>
-<td>€12500,-</td>
+<td>€20000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -1343,13 +1345,13 @@ Rekentabel harddrugs Eindproducten:
 <td><strong>Tweede Veroordeling</strong></td>
 <td>120 maanden</td>
 <td></td>
-<td>€ 17000,-</td>
+<td>€ 18000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td>150 maanden</td>
 <td></td>
-<td>€ 20000,-</td>
+<td>€ 23000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -1461,6 +1463,7 @@ Rekentabel harddrugs Eindproducten:
 **Artikel T-V 3 - Steek- en slagwapens (27 WWM)**
 1. Strafbaar is een persoon die een steekwapen voorhanden heeft, bij zich draagt, opgeslagen heeft op een plaats of in de laadruimte heeft van zijn of haar vervoersmiddel, waarvan redelijkerwijs kan worden aangenomen dat deze bedoelt is om letsel toe te brengen.
 2. Alle soorten steekwapens zijn verboden.
+3. De 'Hamer' valt onder een steek- en/of slag wapen, indien de verdachte deze onder zich heeft tijdens een strafbaar feit.
 
 <div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
 <thead>
@@ -1789,13 +1792,13 @@ Rekentabel harddrugs Eindproducten:
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td>20 uur</td>
-<td>€ 1000,-</td>
+<td>€ 2000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td></td>
 <td>40 uur</td>
-<td>€ 2500,-</td>
+<td>€ 3000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
@@ -1826,41 +1829,7 @@ Rekentabel harddrugs Eindproducten:
     - passend is in verband met het deelnemen aan een feestelijke of een culturele activiteit.
 3. Hij die wordt veroordeeld voor lid 1 krijgt een boete van €2500,- per geval.
 
-**Artikel T-VIII 7 - Identiteitsfraude**
-1. Schuldig is een persoon die zich uitgeeft als iemand anders, onder naam van iemand anders, in naam van iemand anders, of gelieerd aan iemand anders met als doel daaruit een gewin te behalen in brede zin.
-
-<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
-<thead>
-<tr>
-<th></th>
-<th><em>Celstraf</em></th>
-<th><em>Taakstraf</em></th>
-<th><em>Boete</em></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Eerste Veroordeling</strong></td>
-<td></td>
-<td>20 uur</td>
-<td>€ 2000,-</td>
-</tr>
-<tr>
-<td><strong>Tweede Veroordeling</strong></td>
-<td></td>
-<td>40 uur</td>
-<td>€ 4000,-</td>
-</tr>
-<tr>
-<td><strong>Meerdere Veroordelingen</strong></td>
-<td></td>
-<td>60 uur</td>
-<td>€ 6000,-</td>
-</tr>
-</tbody>
-</table></div></div>
-
-**Artikel T-VIII 8 - Deelname aan een criminele organisatie**
+**Artikel T-VIII 7 - Deelname aan een criminele organisatie**
 1. Schuldig is een persoon die deelneemt aan, steun verleent aan, of gelieerd is aan een organisatie die tot doel heeft het plegen van misdrijven.
 2. Ten aanzien van de oprichters, leiders of bestuurders worden de gevangenisstraffen met 1/3 verhoogd.
 3. Onder deelneming als omschreven in het eerste lid wordt mede begrepen het verlenen van geldelijke of andere stoffelijke steun aan alsmede het werven van gelden of personen ten behoeve van de daar omschreven organisatie.
@@ -1877,21 +1846,21 @@ Rekentabel harddrugs Eindproducten:
 <tbody>
 <tr>
 <td><strong>Eerste Veroordeling</strong></td>
-<td>20 maanden</td>
+<td>50 maanden</td>
 <td></td>
-<td>€ 5000,-</td>
+<td>€ 15000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
-<td>40 maanden</td>
+<td>75 maanden</td>
 <td></td>
-<td>€ 10000,-</td>
+<td>€ 20000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
-<td>60 maanden</td>
+<td>100 maanden</td>
 <td></td>
-<td>€ 15000,-</td>
+<td>€ 25000,-</td>
 </tr>
 </tbody>
 </table></div></div>
