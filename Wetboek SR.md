@@ -57,6 +57,7 @@
 5. Een verdachte mag afzien van zijn of haar recht tot consultatie en/of verhoor bijstand van een advocaat.
 6. Een verdachte mag zich laten bijstaan door maximaal 1 advocaat, voorkeur- of piketadvocaat, met maximaal 1 stagaire. 
 7. Van de in lid 1, lid 2 en lid 3 benoemde bepaling kan worden afgewijkt indien er niet binnen 15 minuten (realtime) een advocaat beschikbaar is.
+8. Als advocaat is alleen toe gestaan hij, of zij, die in de rechtmatige uitoevening is van het beroep advocaat en wie daarnaar gekleed is. Een advocaat is enkel rechtmatig in uitoevening indien hij, of zij, gekleed is in een toga of smoking.
 
 **Artikel AB 8 - Algemene aanvulling**
 1. Onder goederen wordt verstaan alles wat tussen twee personen kan worden uitgewisseld.
