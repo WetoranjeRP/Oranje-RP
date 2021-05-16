@@ -1397,7 +1397,7 @@ Rekentabel harddrugs Eindproducten:
 **Artikel T-V 2 - Vuurwapens en Explosieven (26 WWM)**
 1. Strafbaar is een persoon die een vuurwapen voorhanden heeft, bij zich draagt, opgeslagen heeft op een plaats of in de laadruimte heeft van zijn of haar vervoersmiddel.
 2. Onderscheid wordt gemaakt tussen:
-    - Cat. 1 Kleinevuurwapens zijnde; alle vuurwapenswelke niet apart zijn benoemt onder cat 2.
+    - Cat. 1 Kleinevuurwapens zijnde; alle vuurwapens welke niet apart zijn benoemt onder cat 2.
     - Cat. 2 Automatische vuurwapens, shutgun, explosieven, granaten, thermiet, rocketlauncher.
 
 <div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
@@ -1567,6 +1567,46 @@ Rekentabel harddrugs Eindproducten:
 </tr>
 </tbody>
 </table></div></div>
+
+**Artikel T-V 6 - Voor handen hebben van munitie**
+1. Strafbaar is een persoon die munitie bij zich draagd en/of voorhanden heeft.
+2. Ter veroordeling van dit feit hoeft de verdachte niet te beschikken over een vuurwapen. Enkel losse munitie is voldoende.
+3. Onder munitie wordt verstaan;  - Een patroon houder
+                                  - Elk patroon dat door een (automatisch)vuurwapen kan worden afgeschoten.
+4. Indien de politie ten tijde van het overdragen de wapenhandel stopt, wordt dit gezien als voltooid feit.
+5. Indien de verdachte meer dan 20 patronen bij zich draagt, zal de straf met 1/3e worden verhoogd.
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>Boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td></td>
+<td>40 Uren</td>
+<td>€ 2000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td></td>
+<td>50 Uren</td>
+<td>€ 3500,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td>25 maanden</td>
+<td></td>
+<td>€ 4000,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
 
 # Titel-VI - Wet op de Kansspelen
 **Artikel T-VI 1 - Algemeen verbod (1 WoK)**
@@ -1992,6 +2032,12 @@ Rekentabel harddrugs Eindproducten:
 </tr>
 </tbody>
 </table></div></div>
+
+**Artikel T-VIII 13 - Vuurwerk**
+1. Binnen de stad valt (sier)vuurwerk onder 1 categorie.
+2. Geen enkele vorm van vuurwerk is legaal binnen Oranje Roleplay, tenzij anders bepaald. De gemeente kan een zodoende een vergunning afgeven.
+3. Indien iemand zonder vergunning vuurwerk bij zich draagt geldt een boete van 500 euro per 1 tot 5 items vuurwerk.
+4. Indien iemand zonder vergunning vuurwerk afsteekt geldt een boete van 800 euro per geval.
 
 <hr>
 Het wetboek van Oranje Roleplay is opgesteld uit naam van de burgemeester en ondertekend te Oranje.
