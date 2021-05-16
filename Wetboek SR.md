@@ -22,14 +22,15 @@
 7. Een straf kan geheel of gedeeltelijk kwijtgescholden en/of uitgesloten worden op basis van uitsluitingsgronden of bewijsbaar foutieve uitschrijving van de straf.
 
 8. Bij een mislukt strafbaarfeit (poging) wordt maximaal 2/3e van de oorspronkelijke straf bij de uiteindelijke straf toegevoegd.
-9. Bij het opleggen van een celstraf wordt een eventuele taakstraf omgezet in een celstraf.
-10. Bij de in lid 9 bedoelde omzetting wordt voor elke 2 taken 1 maand cel berekend.
+9. Bij het opleggen van een celstraf kan een eventuele taakstraf omgezet worden in een celstraf, of een celstraf in een taakstraf.
+10. Bij de in lid 9 bedoelde omzetting kan voor elke    - 2 taken 1 maand cel worden berekend.
+                                                        - 1 maand cel 2 taken worden berekend.
 
 11. De politie kan overeen komen met de verdachte om een boete om te zetten in een taakstraf.
 
 **Artikel AB 4 - Strafblad**
 1. Alleen straffen die enige vorm van celstraf bevatten kunnen leiden tot een strafblad.
-2. Een strafblad blijft staan voor de duur van 1 (realtime) maanden, tenzij anders is bepaald.
+2. Een strafblad blijft staan voor de duur van 1 (realtime) maand, tenzij anders is bepaald.
 3. Een strafblad van een geweldsmisdrijf blijft staan voor de duur van 2 (realtime) maanden.
 
 **Artikel AB 5 - Inbeslagname**
@@ -46,7 +47,7 @@
 
 **Artikel AB 6 - Openstaande boetes**
 1. Wanneer er openstaande boetes zijn behoudt de politie het recht om een inbeslaggenomen voertuig onder zich te houden.
-2. Wanneer er bij een staandehouding of aanhouding blijkt dat betrokkene of verdachte openstaande boetes heeft, kan er een taakstraf worden opgelegd van 0.1% van het openstaande bedrag. Bij 10.000 euro, gaat dit dus op 10 taken.
+2. Wanneer er bij een staandehouding of aanhouding blijkt dat betrokkene, of verdachte, openstaande boetes heeft, kan er een taakstraf worden opgelegd van 0.1% van het openstaande bedrag. Bij 10.000 euro, gaat dit dus om 10 taken.
 3. Lid 1 en 2 is alleen van toepassing wanneer er 10.000,- euro of meer aan openstaande boetes zijn.
 
 **Artikel AB 7 - Consultatierecht**
@@ -55,9 +56,9 @@
 3. Indien de voorkeursadvocaat genoemd in lid 2 niet beschikbaar is, is een vervangend advocaat afdoende om te voldoen aan dit recht.
 4. Indien de verdachte de in lid 3 genoemde vervangend advocaat weigert, kan van een advocaat worden afgezien.
 5. Een verdachte mag afzien van zijn of haar recht tot consultatie en/of verhoor bijstand van een advocaat.
-6. Een verdachte mag zich laten bijstaan door maximaal 1 advocaat, voorkeur- of piketadvocaat, met maximaal 1 stagaire. 
+6. Een verdachte mag zich laten bijstaan door maximaal 1 advocaat, zijnde een voorkeur- of piketadvocaat, met maximaal 1 stagaire. 
 7. Van de in lid 1, lid 2 en lid 3 benoemde bepaling kan worden afgewijkt indien er niet binnen 15 minuten (realtime) een advocaat beschikbaar is.
-8. Als advocaat is alleen toe gestaan hij, of zij, die in de rechtmatige uitoevening is van het beroep advocaat en wie daarnaar gekleed is. Een advocaat is enkel rechtmatig in uitoevening indien hij, of zij, gekleed is in een toga of smoking. Daarbij geldt ook dat de advocaat geen strafblad mag hebben of bepaalde voorwerpen bij zich mag dragen welke niet bij een advocaat in rechtmatige uitvoeren behoren.
+8. Als advocaat is alleen toe gestaan hij, of zij, die in de rechtmatige uitoevening is van het beroep advocaat en wie daarnaar gekleed is. Een advocaat is enkel rechtmatig in uitoevening indien hij, of zij, gekleed is in een toga of smoking. Daarbij geldt ook dat de advocaat geen strafblad mag hebben, openstaande straf/boete mag hebben of bepaalde voorwerpen bij zich mag dragen welke niet bij een advocaat in rechtmatige uitvoeren behoren.
 
 **Artikel AB 8 - Algemene aanvulling**
 1. Onder goederen wordt verstaan alles wat tussen twee personen kan worden uitgewisseld.
@@ -104,19 +105,19 @@
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td>20 uur</td>
-<td>€ 3000,-</td>
+<td>€ 1500,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td></td>
 <td>30 uur</td>
-<td>€ 6000,-</td>
+<td>€ 3000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td></td>
 <td>60 uur</td>
-<td>€ 8000,-</td>
+<td>€ 4000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -124,41 +125,6 @@
 **Artikel T-I 2 - Diefstal met geweld (312 WvSR)**
 1. Schuldig is een persoon die een goed wegneemt zonder daarvoor toestemming of enig recht toe te hebben, daarbij gebruik makende van geweld in enige vorm.
 2. Genoemd geweld is gebruikt bij de voorbereiding, diefstal of overval, of vlucht.
-
-<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
-<thead>
-<tr>
-<th></th>
-<th><em>Celstraf</em></th>
-<th><em>Taakstraf</em></th>
-<th><em>Boete</em></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Eerste Veroordeling</strong></td>
-<td>40 maanden</td>
-<td></td>
-<td>€ 20000,-</td>
-</tr>
-<tr>
-<td><strong>Tweede Veroordeling</strong></td>
-<td>80 maanden</td>
-<td></td>
-<td>€ 25000,-</td>
-</tr>
-<tr>
-<td><strong>Meerdere Veroordelingen</strong></td>
-<td>120 maanden</td>
-<td></td>
-<td>€ 30000,-</td>
-</tr>
-</tbody>
-</table></div></div>
-
-**Artikel T-I 3 - Oplichting (326 WvSR)**
-1. Schuldig is een persoon die door het aannemen van een valse naam, of een valse hoedanigheid, hetzij door listige kunstgrepen, hetzij door een samenweefsel van verdichtsels, iemand beweegt tot de afgifte van enig goed, tot het verlenen van een dienst, tot het ter beschikking stellen van gegevens, tot het aangaan van een schuld of tot het teniet doen van een inschuld, wordt, als schuldig aan oplichting, gestraft.
-2. Schuldig is een persoon wie een dienst of goed afneemt zonder de daarvoor afgesproken afspraken na te komen.
 
 <div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
 <thead>
@@ -180,13 +146,48 @@
 <td><strong>Tweede Veroordeling</strong></td>
 <td>50 maanden</td>
 <td></td>
-<td>€ 10000,-</td>
+<td>€ 12500,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
-<td>80 maanden</td>
+<td>70 maanden</td>
 <td></td>
-<td>€ 10000,-</td>
+<td>€ 15000,-</td>
+</tr>
+</tbody>
+</table></div></div>
+
+**Artikel T-I 3 - Oplichting (326 WvSR)**
+1. Schuldig is een persoon die door het aannemen van een valse naam, of een valse hoedanigheid, hetzij door listige kunstgrepen, hetzij door een samenweefsel van verdichtsels, iemand beweegt tot de afgifte van enig goed, tot het verlenen van een dienst, tot het ter beschikking stellen van gegevens, tot het aangaan van een schuld of tot het teniet doen van een inschuld, wordt, als schuldig aan oplichting, gestraft.
+2. Schuldig is een persoon wie een dienst of goed afneemt zonder de daarvoor afgesproken afspraken na te komen.
+
+<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
+<thead>
+<tr>
+<th></th>
+<th><em>Celstraf</em></th>
+<th><em>Taakstraf</em></th>
+<th><em>Boete</em></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Eerste Veroordeling</strong></td>
+<td>20 maanden</td>
+<td></td>
+<td>€ 5000,-</td>
+</tr>
+<tr>
+<td><strong>Tweede Veroordeling</strong></td>
+<td>30 maanden</td>
+<td></td>
+<td>€ 5000,-</td>
+</tr>
+<tr>
+<td><strong>Meerdere Veroordelingen</strong></td>
+<td>50 maanden</td>
+<td></td>
+<td>€ 5000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -210,19 +211,19 @@
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td>20 uur</td>
-<td>€ 2000,-</td>
+<td>€ 1000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td></td>
 <td>30 uur</td>
-<td>€ 4000,-</td>
+<td>€ 2000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td></td>
 <td>60 uur</td>
-<td>€ 5000,-</td>
+<td>€ 3000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -244,19 +245,19 @@
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td>60 uur</td>
-<td>€ 20000,-</td>
+<td>€ 7500,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
-<td>60 maanden</td>
+<td>40 maanden</td>
 <td></td>
-<td>€ 25000,-</td>
+<td>€ 10000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
-<td>120 maanden</td>
+<td>80 maanden</td>
 <td></td>
-<td>€ 30000,-</td>
+<td>€ 12500,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -288,19 +289,19 @@
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td>50 uur</td>
-<td>€ 7500,-</td>
+<td>€ 3000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td></td>
 <td>60 uur</td>
-<td>€ 10000,-</td>
+<td>€ 4000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td></td>
 <td>70 uur</td>
-<td>€ 15000,-</td>
+<td>€ 6000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -324,19 +325,19 @@
 <td><strong>Eerste Veroordeling</strong></td>
 <td>20 maanden</td>
 <td></td>
-<td>€ 12500,-</td>
+<td>€ 5000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td>30 maanden</td>
 <td></td>
-<td>€ 15000,-</td>
+<td>€ 7000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td>40 maanden</td>
 <td></td>
-<td>€ 20000,-</td>
+<td>€ 9000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -357,21 +358,21 @@
 <tbody>
 <tr>
 <td><strong>Eerste Veroordeling</strong></td>
-<td>80 maanden</td>
+<td>40 maanden</td>
 <td></td>
-<td>€ 20000,-</td>
+<td>€ 10000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
-<td>100 maanden</td>
+<td>60 maanden</td>
 <td></td>
-<td>€ 25000,-</td>
+<td>€ 12000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
-<td>120 maanden</td>
+<td>80 maanden</td>
 <td></td>
-<td>€ 30000,-</td>
+<td>€ 15000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -392,21 +393,21 @@
 <tbody>
 <tr>
 <td><strong>Eerste Veroordeling</strong></td>
-<td>100 maanden</td>
+<td>50 maanden</td>
 <td></td>
-<td>€ 30000,-</td>
+<td>€ 15000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
-<td>120 maanden</td>
+<td>60 maanden</td>
 <td></td>
-<td>€ 40000,-</td>
+<td>€ 17500,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
-<td>150 maanden</td>
+<td>75 maanden</td>
 <td></td>
-<td>€ 50000,-</td>
+<td>€ 22000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -429,19 +430,19 @@
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td>15 uur</td>
-<td>€ 5000,-</td>
+<td>€ 2000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td></td>
 <td>20 uur</td>
-<td>€ 6000,-</td>
+<td>€ 3000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td></td>
 <td>25 uur</td>
-<td>€ 7500,-</td>
+<td>€ 4000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -462,21 +463,21 @@
 <tbody>
 <tr>
 <td><strong>Eerste Veroordeling</strong></td>
-<td>60 maanden</td>
+<td>45 maanden</td>
 <td></td>
-<td>€ 30000,-</td>
+<td>€ 12000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
-<td>70 maanden</td>
+<td>55 maanden</td>
 <td></td>
-<td>€ 40000,-</td>
+<td>€ 17000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
-<td>80 maanden</td>
+<td>70 maanden</td>
 <td></td>
-<td>€ 50000,-</td>
+<td>€ 25000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -499,19 +500,19 @@
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td>15 uur</td>
-<td>€ 7500,-</td>
+<td>€ 4000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td></td>
 <td>25 uur</td>
-<td>€ 10000,-</td>
+<td>€ 5000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td></td>
 <td>25 uur</td>
-<td>€ 12500,-</td>
+<td>€ 7000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -533,26 +534,26 @@
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td>20 uur</td>
-<td>€ 5000,-</td>
+<td>€ 3000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td></td>
 <td>25 uur</td>
-<td>€ 6000,-</td>
+<td>€ 4000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td></td>
 <td>30 uur</td>
-<td>€ 7000,-</td>
+<td>€ 6000,-</td>
 </tr>
 </tbody>
 </table></div></div>
 
 # Titel-III - Verkeersfeiten
 **Artikel T-III 1 - Overtredingen in algemene zin (5 WvW)**
-1. Voor verkeersovertredingen in algemene zin, welke niet gespecificeerd zijn als zwaardere delicten, geldt een geldboete van €750,- per geval.
+1. Voor verkeersovertredingen in algemene zin, welke niet gespecificeerd zijn als zwaardere delicten, geldt een geldboete van €500,- per geval.
 2. Er kan door de opsporinge ambtenaar worden gekozen om een waarschuwing te geven in plaats van een boete.
 
 **Artikel T-III 2 - Gevaar / hinder zonder ongeval (5 WvW)**
@@ -575,21 +576,21 @@
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td></td>
-<td>€ 3000,-</td>
+<td>€ 2000,-</td>
 <td>0-24 uur</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td></td>
 <td>10 uur</td>
-<td>€ 4000,-</td>
+<td>€ 3000,-</td>
 <td>0-24 uur</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td></td>
 <td>20 uur</td>
-<td>€ 5000,-</td>
+<td>€ 4000,-</td>
 <td>0-24 uur</td>
 </tr>
 </tbody>
@@ -629,21 +630,21 @@
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td>30 uur</td>
-<td>€ 7500,-</td>
+<td>€ 3500,-</td>
 <td>24-48 uur</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td>10 maanden</td>
 <td></td>
-<td>€ 10000,-</td>
+<td>€ 5000,-</td>
 <td>48-72 uur</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td>15 maanden</td>
 <td></td>
-<td>€ 12500,-</td>
+<td>€ 6500,-</td>
 <td>48-72 uur</td>
 </tr>
 </tbody>
@@ -669,14 +670,14 @@
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td>20 uur</td>
-<td>€ 5000,-</td>
+<td>€ 4000,-</td>
 <td>0-12 uur</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td></td>
 <td>30 uur</td>
-<td>€ 6500,-</td>
+<td>€ 6000,-</td>
 <td>0-24 uur</td>
 </tr>
 <tr>
@@ -709,21 +710,21 @@
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td>50 uur</td>
-<td>€ 8000,-</td>
+<td>€ 5000,-</td>
 <td>0-24 uur</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td></td>
 <td>70 uur</td>
-<td>€ 10000,-</td>
+<td>€ 7000,-</td>
 <td>0-24 uur</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td></td>
 <td>80 uur</td>
-<td>€ 12000,-</td>
+<td>€ 9000,-</td>
 <td>0-24 uur</td>
 </tr>
 </tbody>
@@ -748,21 +749,21 @@
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td>70 uur</td>
-<td>€ 12000,-</td>
+<td>€ 6000,-</td>
 <td>0-24 uur</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
-<td>40 maanden</td>
+<td>30 maanden</td>
 <td></td>
-<td>€ 15000,-</td>
+<td>€ 8000,-</td>
 <td>0-24 uur</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
-<td>60 maanden</td>
+<td>50 maanden</td>
 <td></td>
-<td>€ 18000,-</td>
+<td>€ 10000,-</td>
 <td>0-24 uur</td>
 </tr>
 </tbody>
@@ -790,21 +791,21 @@
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td>50 uur</td>
-<td>€ 5000,-</td>
+<td>€ 2500,-</td>
 <td></td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td></td>
 <td>60 uur</td>
-<td>€ 6000,-</td>
+<td>€ 3000,-</td>
 <td></td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td>40 maanden</td>
 <td></td>
-<td>€ 8000,-</td>
+<td>€ 4000,-</td>
 <td></td>
 </tr>
 </tbody>
@@ -829,21 +830,21 @@
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td>10 uur</td>
-<td>€3000,-</td>
+<td>€2000,-</td>
 <td>0-24 uur</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td></td>
 <td>20 uur</td>
-<td>€5000,-</td>
+<td>€3000,-</td>
 <td>0-24 uur</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td></td>
 <td>30 uur</td>
-<td>€7500,-</td>
+<td>€4000,-</td>
 <td>0-24 uur</td>
 </tr>
 </tbody>
@@ -857,7 +858,7 @@
     - Parkeren op de stoep;
     - Stilstaan op de stoep.
 2. Indien er geen bestuurder bekend is, is de tenaamgestelde van het voertuig verantwoordelijk.
-3. De vastgestelde boete bedraagd € 3000,-
+3. De vastgestelde boete bedraagd € 1250,-
 4. Indien het voertuig hindelijk staat, kan het voertuig worden afgesleept en dient de tenaamgestelde deze kosten te voldoen.
 
 **Artikel T-III 10 - Snelheidsovertredingen**
@@ -877,27 +878,27 @@
 <tbody>
 <tr>
 <td>Te hard rijden &lt; 10KM/H</td>
-<td>€ 400,-</td>
+<td>€ 200,-</td>
 </tr>
 <tr>
 <td>Te hard rijden 10 - 20KM/H</td>
-<td>€ 800,-</td>
+<td>€ 400,-</td>
 </tr>
 <tr>
 <td>Te hard rijden 21 - 30KM/H</td>
-<td>€ 1600,-</td>
+<td>€ 800,-</td>
 </tr>
 <tr>
 <td>Te hard rijden 31 - 40KM/H</td>
-<td>€ 2500,-</td>
+<td>€ 1250,-</td>
 </tr>
 <tr>
 <td>Te hard rijden 41 - 49KM/H</td>
-<td>€ 3750,-</td>
+<td>€ 1800,-</td>
 </tr>
 <tr>
 <td>Te hard rijden 50 of meer KM/H</td>
-<td>€ 6000,-</td>
+<td>€ 3000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -912,27 +913,27 @@
 <tbody>
 <tr>
 <td>Te hard rijden &lt; 10KM/H</td>
-<td>€ 300,-</td>
+<td>€ 150,-</td>
 </tr>
 <tr>
 <td>Te hard rijden 10 - 20KM/H</td>
-<td>€ 600,-</td>
+<td>€ 300,-</td>
 </tr>
 <tr>
 <td>Te hard rijden 21 - 30KM/H</td>
-<td>€ 1200,-</td>
+<td>€ 600,-</td>
 </tr>
 <tr>
 <td>Te hard rijden 31 - 40KM/H</td>
-<td>€ 2100,-</td>
+<td>€ 1050,-</td>
 </tr>
 <tr>
 <td>Te hard rijden 41 - 49KM/H</td>
-<td>€ 3350,-</td>
+<td>€ 1700,-</td>
 </tr>
 <tr>
 <td>Te hard rijden 50 of meer KM/H</td>
-<td>€ 5500,-</td>
+<td>€ 2500,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -987,19 +988,19 @@ Rekentabel softdrugs ingrediënten:
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td>10 uur</td>
-<td>€ 3000,-</td>
+<td>€ 1500,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td></td>
 <td>20 uur</td>
-<td>€ 5000,-</td>
+<td>€ 2500,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td></td>
 <td>30 uur</td>
-<td>€ 7000,-</td>
+<td>€ 4000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -1018,19 +1019,19 @@ Rekentabel softdrugs ingrediënten:
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td>30 uur</td>
-<td>€ 5000,-</td>
+<td>€ 2500,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td></td>
 <td>50 uur</td>
-<td>€ 7000,-</td>
+<td>€ 4000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td>25 maanden</td>
 <td></td>
-<td>€ 9000,-</td>
+<td>€ 5000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -1049,19 +1050,19 @@ Rekentabel softdrugs ingrediënten:
 <td><strong>Eerste Veroordeling</strong></td>
 <td>40 maanden</td>
 <td></td>
-<td>€ 7000,-</td>
+<td>€ 4000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td>50 maanden</td>
 <td></td>
-<td>€ 9000,-</td>
+<td>€ 5000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td>60 maanden</td>
 <td></td>
-<td>€12000,-</td>
+<td>€6000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -1081,19 +1082,19 @@ Rekentabel softdrugs eindproducten:
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td>10 uur</td>
-<td>€ 7000,-</td>
+<td>€ 4000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td></td>
 <td>20 uur</td>
-<td>€ 10000,-</td>
+<td>€ 5000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td></td>
 <td>30 uur</td>
-<td>€ 15000,-</td>
+<td>€ 7500,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -1112,19 +1113,19 @@ Rekentabel softdrugs eindproducten:
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td>30 uur</td>
-<td>€ 9000,-</td>
+<td>€ 5000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
-<td>40 maanden</td>
+<td>30 maanden</td>
 <td></td>
-<td>€ 12000,-</td>
+<td>€ 7500,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
-<td>50 maanden</td>
+<td>45 maanden</td>
 <td></td>
-<td>€ 17000,-</td>
+<td>€ 9000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -1141,21 +1142,21 @@ Rekentabel softdrugs eindproducten:
 <tbody>
 <tr>
 <td><strong>Eerste Veroordeling</strong></td>
-<td>55 maanden</td>
+<td>45 maanden</td>
 <td></td>
-<td>€ 12000,-</td>
+<td>€ 7500,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
-<td>60 maanden</td>
+<td>50 maanden</td>
 <td></td>
-<td>€ 15000,-</td>
+<td>€ 9000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
-<td>70 maanden</td>
+<td>60 maanden</td>
 <td></td>
-<td>€ 20000,-</td>
+<td>€ 10000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -1184,19 +1185,19 @@ Rekentabel harddrugs ingrediënten:
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td>25 uur</td>
-<td>€ 5000,-</td>
+<td>€ 2500,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td></td>
 <td>40 uur</td>
-<td>€ 7000,-</td>
+<td>€ 4000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td>30 maanden</td>
 <td></td>
-<td>€ 9000,-</td>
+<td>€ 5000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -1215,19 +1216,19 @@ Rekentabel harddrugs ingrediënten:
 <td><strong>Eerste Veroordeling</strong></td>
 <td>35 maanden</td>
 <td></td>
-<td>€ 7000,-</td>
+<td>€ 4000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
-<td>50 maanden</td>
+<td>40 maanden</td>
 <td></td>
-<td>€ 9000,-</td>
+<td>€ 5000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
-<td>60 maanden</td>
+<td>55 maanden</td>
 <td></td>
-<td>€ 11000,-</td>
+<td>€ 6000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -1244,21 +1245,21 @@ Rekentabel harddrugs ingrediënten:
 <tbody>
 <tr>
 <td><strong>Eerste Veroordeling</strong></td>
-<td>70 maanden</td>
+<td>60 maanden</td>
 <td></td>
-<td>€ 9000,-</td>
+<td>€ 5000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
-<td>80 maanden</td>
+<td>65 maanden</td>
 <td></td>
-<td>€ 11000,-</td>
+<td>€ 6000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
-<td>100 maanden</td>
+<td>75 maanden</td>
 <td></td>
-<td>€ 13000,-</td>
+<td>€ 8000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -1278,19 +1279,19 @@ Rekentabel harddrugs Eindproducten:
 <td><strong>Eerste Veroordeling</strong></td>
 <td>25 maanden</td>
 <td></td>
-<td>€ 10000,-</td>
+<td>€ 5000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td>30 maanden</td>
 <td></td>
-<td>€ 13000,-</td>
+<td>€ 6000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
-<td>40 maanden</td>
+<td>35 maanden</td>
 <td></td>
-<td>€ 18000,-</td>
+<td>€ 8000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -1307,21 +1308,21 @@ Rekentabel harddrugs Eindproducten:
 <tbody>
 <tr>
 <td><strong>Eerste Veroordeling</strong></td>
-<td>50 maanden</td>
+<td>40 maanden</td>
 <td></td>
-<td>€12000,-</td>
+<td>€6000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
-<td>60 maanden</td>
+<td>50 maanden</td>
 <td></td>
-<td>€15000,-</td>
+<td>€8000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
-<td>75 maanden</td>
+<td>60 maanden</td>
 <td></td>
-<td>€20000,-</td>
+<td>€10000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -1338,21 +1339,21 @@ Rekentabel harddrugs Eindproducten:
 <tbody>
 <tr>
 <td><strong>Eerste Veroordeling</strong></td>
-<td>100 maanden</td>
+<td>65 maanden</td>
 <td></td>
-<td>€ 15000,-</td>
+<td>€ 8000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
-<td>120 maanden</td>
+<td>70 maanden</td>
 <td></td>
-<td>€ 18000,-</td>
+<td>€ 10000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
-<td>150 maanden</td>
+<td>80 maanden</td>
 <td></td>
-<td>€ 23000,-</td>
+<td>€ 14000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -1376,19 +1377,19 @@ Rekentabel harddrugs Eindproducten:
 <td><strong>Eerste Veroordeling</strong></td>
 <td>15 maanden</td>
 <td></td>
-<td>€ 5000,-</td>
+<td>€ 2500,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
-<td>30 maanden</td>
+<td>25 maanden</td>
 <td></td>
-<td>€ 7500,-</td>
+<td>€ 4500,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
-<td>60 maanden</td>
+<td>35 maanden</td>
 <td></td>
-<td>€ 10000,-</td>
+<td>€ 5000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -1413,19 +1414,19 @@ Rekentabel harddrugs Eindproducten:
 <td><strong>Eerste Veroordeling</strong></td>
 <td>30 maanden</td>
 <td></td>
-<td>€ 10000,-</td>
+<td>€ 5000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
-<td>60 maanden</td>
+<td>40 maanden</td>
 <td></td>
-<td>€ 12500,-</td>
+<td>€ 6000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
-<td>90 maanden</td>
+<td>60 maanden</td>
 <td></td>
-<td>€ 15000,-</td>
+<td>€ 7000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -1442,21 +1443,21 @@ Rekentabel harddrugs Eindproducten:
 <tbody>
 <tr>
 <td><strong>Eerste Veroordeling</strong></td>
-<td>90 maanden</td>
+<td>50 maanden</td>
 <td></td>
-<td>€ 20000,-</td>
+<td>€ 7000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
-<td>120 maanden</td>
+<td>60 maanden</td>
 <td></td>
-<td>€ 25000,-</td>
+<td>€ 9000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
-<td>160 maanden</td>
+<td>70 maanden</td>
 <td></td>
-<td>€ 27500,-</td>
+<td>€ 12000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -1480,19 +1481,19 @@ Rekentabel harddrugs Eindproducten:
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td></td>
-<td>€ 5000,-</td>
+<td>€ 2500,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td></td>
 <td>40 uur</td>
-<td>€ 7500,-</td>
+<td>€ 4200,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td>15 maanden</td>
 <td></td>
-<td>€ 10000,-</td>
+<td>€ 5000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -1514,19 +1515,19 @@ Rekentabel harddrugs Eindproducten:
 <td><strong>Eerste Veroordeling</strong></td>
 <td>9 maanden</td>
 <td></td>
-<td>€ 5000,-</td>
+<td>€ 2500,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td>18 maanden</td>
 <td></td>
-<td>€ 7500,-</td>
+<td>€ 4200,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td>27 maanden</td>
 <td></td>
-<td>€ 10000,-</td>
+<td>€ 5000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -1550,19 +1551,19 @@ Rekentabel harddrugs Eindproducten:
 <td><strong>Eerste Veroordeling</strong></td>
 <td>20 maanden</td>
 <td></td>
-<td>€ 25000,-</td>
+<td>€ 12000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
-<td>40 maanden</td>
+<td>35 maanden</td>
 <td></td>
-<td>€ 30000,-</td>
+<td>€ 15000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
-<td>60 maanden</td>
+<td>50 maanden</td>
 <td></td>
-<td>€ 45000,-</td>
+<td>€ 20000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -1591,13 +1592,13 @@ Rekentabel harddrugs Eindproducten:
 <td><strong>Tweede Veroordeling</strong></td>
 <td></td>
 <td></td>
-<td>€ 7500,-</td>
+<td>€ 6000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td></td>
 <td></td>
-<td>€ 15000,-</td>
+<td>€ 10000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -1626,13 +1627,13 @@ Rekentabel harddrugs Eindproducten:
 <td><strong>Tweede Veroordeling</strong></td>
 <td></td>
 <td>10 uur</td>
-<td>€ 9000,-</td>
+<td>€ 10000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td></td>
 <td>25 uur</td>
-<td>€ 17500,-</td>
+<td>€ 15000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -1756,7 +1757,7 @@ Rekentabel harddrugs Eindproducten:
 <tr>
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
-<td>25 uur</td>
+<td>30 uur</td>
 <td>€ 2000,-</td>
 </tr>
 <tr>
@@ -1792,34 +1793,34 @@ Rekentabel harddrugs Eindproducten:
 <tr>
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
-<td>20 uur</td>
-<td>€ 2000,-</td>
+<td>15 uur</td>
+<td>€ 1500,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td></td>
-<td>40 uur</td>
-<td>€ 3000,-</td>
+<td>30 uur</td>
+<td>€ 2500,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td></td>
-<td>60 uur</td>
-<td>€ 5000,-</td>
+<td>50 uur</td>
+<td>€ 4000,-</td>
 </tr>
 </tbody>
 </table></div></div>
 
 **Artikel T-VIII 3 - Opgeven valse gegevens (435  WvSR)**
-1. Schuldig is een persoon die bij vordering van een ambtenaar in functie valse gegevens opgeeft, op straffe van een boete van €2500,- per geval.
+1. Schuldig is een persoon die bij vordering van een ambtenaar in functie valse gegevens opgeeft, op straffe van een boete van €1250,- per geval.
 
 **Artikel T-VIII 4 - Niet op eerste vordering tonen van identiteitsbewijs (447e  WvSR)**
 1. Schuldig is een persoon die geen gehoor geeft aan een vordering tot inzage van het identiteitsbewijs door een ambtenaar in functie, wanneer dit in het kader van de wet door de ambtenaar als noodzakelijk wordt geacht.
-2. Hij die wordt veroordeeld voor lid 1 krijgt een boete van €1000,- per geval.
+2. Hij die wordt veroordeeld voor lid 1 krijgt een boete van €750,- per geval.
 
 **Artikel T-VIII 5 - Openbare dronkenschap (453 WvSR)**
 1. Schuldig is een persoon die zich begeeft in de openbare ruimte terwijl hij of zij in kennelijke staat van dronkenschap verkeert.
-2. Hij die wordt veroordeeld voor lid 1 krijgt een boete van €1250,- per geval.
+2. Hij die wordt veroordeeld voor lid 1 krijgt een boete van €650,- per geval.
 
 **Artikel T-VIII 6 - Dragen van gezichtsbedekkende kleding**
 1. Schuldig is een persoon die kleding draagt, die het gezicht geheel bedekt of zodanig bedekt dat alleen de ogen onbedekt zijn, dan wel onherkenbaar maakt.
@@ -1828,7 +1829,7 @@ Rekentabel harddrugs Eindproducten:
     - noodzakelijk is ter bescherming van het lichaam in verband met de gezondheid of de veiligheid, of
     - noodzakelijk is in verband met eisen die aan de uitoefening van een beroep of sport worden gesteld, of
     - passend is in verband met het deelnemen aan een feestelijke of een culturele activiteit.
-3. Hij die wordt veroordeeld voor lid 1 krijgt een boete van €2500,- per geval.
+3. Hij die wordt veroordeeld voor lid 1 krijgt een boete van €1000,- per geval.
 
 **Artikel T-VIII 7 - Deelname aan een criminele organisatie**
 1. Schuldig is een persoon die deelneemt aan, steun verleent aan, of gelieerd is aan een organisatie die tot doel heeft het plegen van misdrijven.
@@ -1849,19 +1850,19 @@ Rekentabel harddrugs Eindproducten:
 <td><strong>Eerste Veroordeling</strong></td>
 <td>50 maanden</td>
 <td></td>
-<td>€ 15000,-</td>
+<td>€ 8000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
-<td>75 maanden</td>
+<td>60 maanden</td>
 <td></td>
-<td>€ 20000,-</td>
+<td>€ 10000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
-<td>100 maanden</td>
+<td>75 maanden</td>
 <td></td>
-<td>€ 25000,-</td>
+<td>€ 12500,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -1885,24 +1886,24 @@ Rekentabel harddrugs Eindproducten:
 <td><strong>Eerste Veroordeling</strong></td>
 <td></td>
 <td>40 uur</td>
-<td>€ 2000,-</td>
+<td>€ 1000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td></td>
 <td>50 uur</td>
-<td>€ 2500,-</td>
+<td>€ 1250,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td></td>
 <td>60 uur</td>
-<td>€ 4000,-</td>
+<td>€ 2000,-</td>
 </tr>
 </tbody>
 </table></div></div>
 
-**Artikel T-VIII 10 - Huisvredebreuk (138 WvSR)**
+**Artikel T-VIII 10 - Huisvredebreuk / Inbraak (138 WvSR)**
 1. Schuldig is een persoon die een woning of besloten lokaal of erf bij een ander in gebruik, wederrechtelijk binnendringt of, wederrechtelijk aldaar vertoevende, zich niet op de vordering van of vanwege de rechthebbende aanstonds verwijdert.
 2. Schuldig is een persoon die zich de toegang heeft verschaft door middel van braak of inklimming, van lockpicks, van een valse order of vals kostuum, of die, zonder voorkennis van de rechthebbende en anders dan ten gevolge van vergissing binnengekomen, aldaar wordt aangetroffen in de voor de nachtrust bestemde tijd, wordt geacht te zijn binnengedrongen.
 3. In geval van het tweede lid wordt de staf met 1/3 verhoogd.
@@ -1919,21 +1920,21 @@ Rekentabel harddrugs Eindproducten:
 <tbody>
 <tr>
 <td><strong>Eerste Veroordeling</strong></td>
+<td>20 Maanden</td>
 <td></td>
-<td>20 uur</td>
-<td>€ 4000,-</td>
+<td>€ 2000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
+<td>30 Maanden</td>
 <td></td>
-<td>30 uur</td>
-<td>€ 6000,-</td>
+<td>€ 4000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
+<td>35 Maanden</td>
 <td></td>
-<td>40 uur</td>
-<td>€ 8000,-</td>
+<td>€ 6000,-</td>
 </tr>
 </tbody>
 </table></div></div>
@@ -1975,19 +1976,19 @@ Rekentabel harddrugs Eindproducten:
 <td><strong>Eerste Veroordeling</strong></td>
 <td>20 maanden</td>
 <td></td>
-<td>€ 10000,-</td>
+<td>€ 6000,-</td>
 </tr>
 <tr>
 <td><strong>Tweede Veroordeling</strong></td>
 <td>40 maanden</td>
 <td></td>
-<td>€ 15000,-</td>
+<td>€ 8000,-</td>
 </tr>
 <tr>
 <td><strong>Meerdere Veroordelingen</strong></td>
 <td>60 maanden</td>
 <td></td>
-<td>€ 20000,-</td>
+<td>€ 10000,-</td>
 </tr>
 </tbody>
 </table></div></div>
