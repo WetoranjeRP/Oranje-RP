@@ -2040,5 +2040,5 @@ Rekentabel harddrugs Eindproducten:
 4. Indien iemand zonder vergunning vuurwerk afsteekt geldt een boete van 800 euro per geval.
 
 <hr>
-Het wetboek van Oranje Roleplay is opgesteld uit naam van de burgemeester en ondertekend te Oranje.
+Het wetboek van Oranje Roleplay is opgesteld uit naam van de burgemeester en ondertekend te Oranje Goden.
 <hr>
